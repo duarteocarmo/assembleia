@@ -4,6 +4,7 @@
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 ![ver](https://img.shields.io/badge/version-0.1-lightgrey.svg)
 
+Se estás em mobile ou queres visitar o notebook numa versão mais browser friendly segue [este link](http://nbviewer.jupyter.org/github/duarteocarmo/assembleia/blob/master/Analise.ipynb).
 
 ### Objectivo
 
@@ -23,7 +24,7 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 
 
 
-### Roadmap and todos
+### Guidelines da analise
 
 - [x] Que partidos falam mais? 
 - [x] Que tipo de intervenções é que os partidos mais fazem? 
