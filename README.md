@@ -24,6 +24,22 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 
 
 
+### Alguns resultados
+
+- Wordclouds das intervenções das irmãs Mortágua:
+
+![Image of smth](https://i.imgur.com/dFF6a5S.png)
+
+- Numero de intervenções no parlamento por partido:
+
+![ss](https://i.imgur.com/Rz7vipC.png)
+
+
+
+
+
+
+
 ### Guidelines da analise
 
 - [x] Que partidos falam mais? 
