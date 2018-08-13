@@ -7,7 +7,7 @@
 
 ### Objectivo
 
-Criar visualizações que ajudem os cidadãos portugueses a perceber melhor o que se está a passar dentro da assembleia, pelo meio de visualizações. 
+Criar visualizações que ajudem os cidadãos portugueses a perceber melhor o que se está a passar dentro da assembleia. Possivelmente aumentanto a transparência e consciencia do publico.
 
 
 
