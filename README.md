@@ -34,12 +34,6 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 
 ![ss](https://i.imgur.com/Rz7vipC.png)
 
-
-
-
-
-
-
 ### Guidelines da analise
 
 - [x] Que partidos falam mais? 
