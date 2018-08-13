@@ -1,15 +1,8 @@
-# assembleia
+# O parlamento em visualizações
 
 ![pythonver](https://img.shields.io/badge/python-2.7-blue.svg)
-
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
-
 ![ver](https://img.shields.io/badge/version-0.1-lightgrey.svg)
-
- 
-
-
-
 
 
 ### Objectivo
