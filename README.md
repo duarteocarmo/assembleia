@@ -37,3 +37,7 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 
 
 
+### Contribuir
+
+- Tens perguntas (como as em cima) que gostarias que fossem respondidas? Abre uma Issue!
+- Queres colaborar ou tens outros assunto que queres comunicar manda um email para [aqui](mailto:duarteocarmo@gmail.com).
