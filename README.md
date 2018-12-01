@@ -42,6 +42,8 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 - [x] Deputados que mais intervêem 
 - [x] Deputados que menos intervêem 
 - [x] Criar wordclouds de deputados
+- [ ] Ratio intervenções/deputado por partido - *reddit suggested*
+- [ ] Dashboard de wordclouds por deputado - *reddit suggested*
 - [ ] Deputados que mais falam de um certo tema
 - [ ] Partidos que mais falam de um certo tema
 - [ ] Interesse num tema ao longo do tempo (exemplo: fogos)
@@ -51,4 +53,4 @@ Os resultados serão apresentados numa primeira fase sob forma de um notebook. S
 ### Contribuir
 
 - Tens perguntas (como as em cima) que gostarias que fossem respondidas? Abre uma Issue!
-- Queres colaborar ou tens outros assunto que queres comunicar manda um email para [aqui](mailto:duarteocarmo@gmail.com).
+- Queres colaborar ou tens outros assunto que queres comunicar manda um email para [aqui](mailto:me@duarteocarmo.com).
