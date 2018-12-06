@@ -12,6 +12,8 @@ Se estás em mobile ou queres visitar o notebook numa versão mais browser frien
 - [duarteocarmo](https://github.com/duarteocarmo)
 - [luispfonseca](https://github.com/luispfonseca)
 
+🐙 [Trello Board](https://trello.com/b/MLkfR5wn/o-parlamento-em-visualiza%C3%A7%C3%B5es)
+
 ### Objectivo
 
 *Inserir lista de perguntas*
