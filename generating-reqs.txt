@@ -1,0 +1,9 @@
+Converter .ipynb para .py com:
+
+$ jupyter nbconvert nomedeficheiro.ipynb --to=python
+
+E gerar reqs com venv ligado: 
+
+(venv) $ cd assembleia
+(venv) $ pipreqs . --force
+
