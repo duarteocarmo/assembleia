@@ -60,6 +60,8 @@ def scrape_intervenções_url(url):
 
         orador = re.sub("(" + party + ")", "", infoorador)
         orador = orador.replace("()", "").strip()
+        orador = re.sub("^(O Sr. |A Sr.ª )", "", orador)
+        orador = orador.strip()
 
         # get the speech
         discurso = splitintervention[1].replace("\n", "").strip()
