@@ -1,4 +1,7 @@
+gensim==3.6.0
 requests==2.20.1
+tqdm==4.28.1
 nltk==3.4
 spacy==2.0.18
 beautifulsoup4==4.6.3
+pyLDAvis==2.1.2
