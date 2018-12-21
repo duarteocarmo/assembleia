@@ -30,11 +30,19 @@ def scrape_intervenções_url(url):
 
     ## remove page indicator
     cleantext = re.sub(r"Página (.*)\n", "", cleantext)
-    # remove headers
+    # remove headers, clean text
     cleantext = re.sub(r"(\n)+[0-9]+ DE .* DE 20[0-9]+([0-9]+)", "", cleantext)
     cleantext = re.sub(r"(\n)+([0-9]+) . SÉRIE .* NÚMERO ([0-9]+)", "", cleantext)
+
+    cleantext = re.sub("as([A-Z])", " \\1", cleantext)
+    cleantext = re.sub("asSr", "Sr", cleantext)
+    cleantext = re.sub("Sr. ª", "Sr.ª", cleantext)
+    cleantext = re.sub(r"Sr\.ª([A-Z])", "Sr.ª \\1", cleantext)
+    cleantext = re.sub(r"A Sr\.[^ª]", "A Sr.ª ", cleantext)
+    # cleantext = re.sub(" +", " ", cleantext)
+
     cleantext = re.sub(
-        r"((O Sr\.|A Sr\.ª|Vozes do) [^:.]*: —)", "BREAKHERE!!!\\1", cleantext
+        r"((O Sr\.|A Sr\.ª|Vozes do) [^:.]*(:|\.) —)", "BREAKHERE!!!\\1", cleantext
     )
     cleantext = re.split("BREAKHERE!!!", cleantext)
 
@@ -51,7 +59,7 @@ def scrape_intervenções_url(url):
     for id, intervention in enumerate(cleantext):
 
         # get information on the speaker
-        splitintervention = intervention.split(": —")
+        splitintervention = re.split(r"(:|\.) —", intervention)
         infoorador = splitintervention[0]
 
         party = [item for item in parties if "(" + item + ")" in infoorador]
@@ -60,11 +68,13 @@ def scrape_intervenções_url(url):
 
         orador = re.sub("(" + party + ")", "", infoorador)
         orador = orador.replace("()", "").strip()
-        orador = re.sub("^(O Sr. |A Sr.ª )", "", orador)
+        orador = re.sub("^(O Sr. |A Sr.ª)", "", orador)
         orador = orador.strip()
 
         # get the speech
-        discurso = splitintervention[1].replace("\n", "").strip()
+        discurso = " ".join(splitintervention[2:])
+        discurso = discurso.replace("\n", "").strip()
+        # discurso = re.sub(" +", " ", discurso)
 
         # put everything together
         sessiondict["intervenções"][id] = dict()
@@ -122,7 +132,7 @@ def get_links_legislative_session(url):
 # loop through all in a legislative session
 série = 1
 legislatura = 13
-sessão = 4
+sessão = 1
 
 url_sessão = (
     "http://debates.parlamento.pt/catalogo/r3/dar"

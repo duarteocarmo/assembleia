@@ -1487,7 +1487,7 @@
             "discurso": "Sr. Deputado Feliciano Barreiras Duarte."
         },
         "296": {
-            "orador": "FelicianoBarreirasDuarte",
+            "orador": "FelicianoBarreir Duarte",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra os quatro projetos."
         },
@@ -2169,7 +2169,7 @@
         "432": {
             "orador": "José Moura Soeiro",
             "partido": "BE",
-            "discurso": "Voto a favor dos quatro projetos. Sr. Presidente"
+            "discurso": "Voto a favor dos quatro projetos. Sr. Presidente :  Sr. Deputado José pedro Aguiar Branco."
         },
         "433": {
             "orador": "José Pedro Aguiar Branco",
@@ -2719,492 +2719,497 @@
         "542": {
             "orador": "Presidente",
             "partido": "",
-            "discurso": "Sr. Deputado Pedro do Carmo. O Sr. Pedro do Carmo (PS). — Sr. Presidente, voto a favor do projeto do PS e abstenho-me nos restantes."
+            "discurso": "Sr. Deputado Pedro do Carmo."
         },
         "543": {
+            "orador": "Pedro do Carmo",
+            "partido": "PS",
+            "discurso": "Sr. Presidente, voto a favor do projeto do PS e abstenho-me nos restantes."
+        },
+        "544": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro do Ó Ramos."
         },
-        "544": {
+        "545": {
             "orador": "Pedro do Ó Ramos",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra os quatro projetos."
         },
-        "545": {
+        "546": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Filipe Soares."
         },
-        "546": {
+        "547": {
             "orador": "Pedro Filipe Soares",
             "partido": "BE",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos."
         },
-        "547": {
+        "548": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Mota Soares."
         },
-        "548": {
+        "549": {
             "orador": "Pedro Mota Soares",
             "partido": "CDS-PP",
             "discurso": "Voto contra os quatro projetos, Sr. Presidente."
         },
-        "549": {
+        "550": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Pimpão.  53"
         },
-        "550": {
+        "551": {
             "orador": "Pedro Pimpão",
             "partido": "PSD",
             "discurso": "Voto contra os quatro projetos, Sr. Presidente."
         },
-        "551": {
+        "552": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Pinto."
         },
-        "552": {
+        "553": {
             "orador": "Pedro Pinto",
             "partido": "PSD",
             "discurso": "Sr. Presidente, abstenho-me nos quatro projetos."
         },
-        "553": {
+        "554": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Roque."
         },
-        "554": {
+        "555": {
             "orador": "Pedro Roque",
             "partido": "PSD",
             "discurso": "Voto contra os quatro projetos de lei, Sr. Presidente."
         },
-        "555": {
+        "556": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Pedro Soares."
         },
-        "556": {
+        "557": {
             "orador": "Pedro Soares",
             "partido": "BE",
             "discurso": "Voto a favor dos quatro projetos, Sr. Presidente."
         },
-        "557": {
+        "558": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Porfírio Silva."
         },
-        "558": {
+        "559": {
             "orador": "Porfírio Silva",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor."
         },
-        "559": {
+        "560": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Regina Bastos."
         },
-        "560": {
+        "561": {
             "orador": "Regina Ramos Bastos",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra os quatro projetos."
         },
-        "561": {
+        "562": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputado Renato Sampaio."
         },
-        "562": {
+        "563": {
             "orador": "Renato Sampaio",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto favoravelmente o projeto do Partido Socialista e o de Os Verdes e abstenho-me nos restantes."
         },
-        "563": {
+        "564": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Ricardo Baptista Leite."
         },
-        "564": {
+        "565": {
             "orador": "Ricardo Baptista Leite",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra os quatro projetos."
         },
-        "565": {
+        "566": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Ricardo Bexiga."
         },
-        "566": {
+        "567": {
             "orador": "Ricardo Bexiga",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto favoravelmente os quatro projetos."
         },
-        "567": {
+        "568": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Ricardo Leão."
         },
-        "568": {
+        "569": {
             "orador": "Ricardo Leão",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos."
         },
-        "569": {
+        "570": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Rita Rato."
         },
-        "570": {
+        "571": {
             "orador": "Rita Rato",
             "partido": "PCP",
             "discurso": "Sr. Presidente, voto contra os quatro projetos."
         },
-        "571": {
+        "572": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Rosa Maria Albernaz."
         },
-        "572": {
+        "573": {
             "orador": "Rosa Maria Albernaz",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos."
         },
-        "573": {
+        "574": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Rubina Berardo."
         },
-        "574": {
+        "575": {
             "orador": "Rubina Berardo",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra todos os projetos."
         },
-        "575": {
+        "576": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Rui Cruz."
         },
-        "576": {
+        "577": {
             "orador": "Rui Cruz",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra todos os projetos."
         },
-        "577": {
+        "578": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Rui Riso."
         },
-        "578": {
+        "579": {
             "orador": "Rui Riso",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos."
         },
-        "579": {
+        "580": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Rui Silva. Pausa. Não está presente. Sr.ª Deputada Sandra Cunha."
         },
-        "580": {
+        "581": {
             "orador": "Sandra Cunha",
             "partido": "BE",
             "discurso": "Voto a favor de todos os projetos, Sr. Presidente."
         },
-        "581": {
+        "582": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Sandra Pereira."
         },
-        "582": {
+        "583": {
             "orador": "Sandra Pereira",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra todos os projetos."
         },
-        "583": {
+        "584": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Sandra Pontedeira."
         },
-        "584": {
+        "585": {
             "orador": "Sandra Pontedeira",
             "partido": "PS",
             "discurso": "Voto a favor todos os projetos, Sr. Presidente"
         },
-        "585": {
+        "586": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Santinho Pacheco."
         },
-        "586": {
+        "587": {
             "orador": "Santinho Pacheco",
             "partido": "PS",
             "discurso": "Voto a favor, Sr. Presidente."
         },
-        "587": {
+        "588": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Sara Madruga da Costa."
         },
-        "588": {
+        "589": {
             "orador": "Sara Madruga da Costa",
             "partido": "PSD",
             "discurso": "Voto contra, Sr. Presidente."
         },
-        "589": {
+        "590": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Sérgio Azevedo."
         },
-        "590": {
+        "591": {
             "orador": "Sérgio Azevedo",
             "partido": "PSD",
             "discurso": "Voto contra todos os projetos, Sr. Presidente."
         },
-        "591": {
+        "592": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Sérgio Sousa Pinto."
         },
-        "592": {
+        "593": {
             "orador": "Sérgio Sousa Pinto",
             "partido": "PS",
             "discurso": "Voto a favor, Sr. Presidente."
         },
-        "593": {
+        "594": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Sofia Araújo."
         },
-        "594": {
+        "595": {
             "orador": "Sofia Araújo",
             "partido": "PS",
             "discurso": "Voto a favor, Sr. Presidente."
         },
-        "595": {
+        "596": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Sónia Fertuzinhos."
         },
-        "596": {
+        "597": {
             "orador": "Sónia Fertuzinhos",
             "partido": "PS",
             "discurso": "Voto a favor de todos os projetos."
         },
-        "597": {
+        "598": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Susana Amador."
         },
-        "598": {
+        "599": {
             "orador": "Susana Amador",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos.  55"
         },
-        "599": {
+        "600": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Susana Lamas."
         },
-        "600": {
+        "601": {
             "orador": "Susana Lamas",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto contra todos os projetos."
         },
-        "601": {
+        "602": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Telmo Correia."
         },
-        "602": {
+        "603": {
             "orador": "Telmo Correia",
             "partido": "CDS-PP",
             "discurso": "Voto contra todos os projetos, Sr. Presidente."
         },
-        "603": {
+        "604": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Teresa Caeiro."
         },
-        "604": {
+        "605": {
             "orador": "Teresa Caeiro",
             "partido": "CDS-PP",
             "discurso": "Voto contra, Sr. Presidente."
         },
-        "605": {
+        "606": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Teresa Leal Coelho."
         },
-        "606": {
+        "607": {
             "orador": "Teresa Leal Coelho",
             "partido": "PSD",
             "discurso": "Sr. Presidente, voto a favor dos quatro projetos."
         },
-        "607": {
+        "608": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Teresa Morais."
         },
-        "608": {
+        "609": {
             "orador": "Teresa Morais",
             "partido": "PSD",
             "discurso": "Voto contra todos os projetos, Sr. Presidente."
         },
-        "609": {
+        "610": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Tiago Barbosa Ribeiro."
         },
-        "610": {
+        "611": {
             "orador": "Tiago Barbosa Ribeiro",
             "partido": "PS",
             "discurso": "Sr. Presidente, voto a favor todos os projetos."
         },
-        "611": {
+        "612": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Ulisses Pereira."
         },
-        "612": {
+        "613": {
             "orador": "Ulisses Pereira",
             "partido": "PSD",
             "discurso": "Voto contra todos os projetos."
         },
-        "613": {
+        "614": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Vânia Dias da Silva."
         },
-        "614": {
+        "615": {
             "orador": "Vânia Dias da Silva",
             "partido": "CDS-PP",
             "discurso": "Voto contra todos os projetos, Sr. Presidente."
         },
-        "615": {
+        "616": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado Vitalino Canas."
         },
-        "616": {
+        "617": {
             "orador": "Vitalino Canas",
             "partido": "PS",
             "discurso": "Voto a favor."
         },
-        "617": {
+        "618": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr.ª Deputada Wanda Guimarães."
         },
-        "618": {
+        "619": {
             "orador": "Wanda Guimarães",
             "partido": "PS",
             "discurso": "Voto a favor dos quatro projetos, Sr. Presidente. Pausa."
         },
-        "619": {
+        "620": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Estamos em condições de informar as Sr.as e os Srs. Deputados que os projetos de lei foram rejeitados. O projeto de lei n.º 418/XIII (2.ª) — Regula o acesso à morte medicamente assistida (PAN) obteve 102 votos a favor, 116 contra e 11 abstenções. O projeto de lei n.º 773/XIII (3.ª) — Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível (BE) obteve 104 votos a favor, 117 contra e 8 abstenções. O projeto de lei n.º 832/XIII (3.ª) — Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível (PS) teve 110 votos a favor, 115 contra e 4 abstenções.  Finalmente, o projeto de lei n.º 838/XIII (3.ª) — Define o regime e as condições em que a morte medicamente assistida não é punível (Os Verdes) teve 104 votos a favor, 117 votos contra e 8 abstenções. Aplausos do CDS-PP, de pé, e de Deputados do PSD. Mais uma vez agradeço às Sr.as e Srs. Deputados a elevação com que este debate foi travado, mesmo agora nesta fase de votações. Quero apenas anunciar a agenda da reunião plenária para amanhã, quarta-feira, dia 30 de maio."
         },
-        "620": {
+        "621": {
             "orador": "Ascenso Simões",
             "partido": "PS",
             "discurso": "Sr. Presidente, peço a palavra."
         },
-        "621": {
+        "622": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Para que efeito, Sr. Deputado?"
         },
-        "622": {
+        "623": {
             "orador": "Ascenso Simões",
             "partido": "PS",
             "discurso": "Sr. Presidente, é para indicar à Mesa que apresentarei uma declaração de voto."
         },
-        "623": {
+        "624": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Fica registado, Sr. Deputado. Sr. Deputado Miguel Coelho, tem a palavra."
         },
-        "624": {
+        "625": {
             "orador": "Miguel Coelho",
             "partido": "PS",
             "discurso": "Sr. Presidente, é para informar a Mesa que apresentarei também uma declaração de voto."
         },
-        "625": {
+        "626": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Fica registado, Sr. Deputado. Tem a palavra, Sr.ª Deputada Lara Martinho."
         },
-        "626": {
+        "627": {
             "orador": "Lara Martinho",
             "partido": "PS",
             "discurso": "Sr. Presidente, é também para informar que apresentarei uma declaração de voto."
         },
-        "627": {
+        "628": {
             "orador": "Nuno Sá",
             "partido": "PS",
             "discurso": "Sr. Presidente, peço a palavra."
         },
-        "628": {
+        "629": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Para que efeito, Sr. Deputado?"
         },
-        "629": {
+        "630": {
             "orador": "Nuno Sá",
             "partido": "PS",
             "discurso": "Sr. Presidente, é também para anunciar que apresentarei uma declaração de voto."
         },
-        "630": {
+        "631": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Sr. Deputado, fica registado. Sr.ª Deputada Margarida Balseiro Lopes, tem a palavra."
         },
-        "631": {
+        "632": {
             "orador": "Margarida Balseiro Lopes",
             "partido": "PSD",
             "discurso": "Sr. Presidente, é para informar a Mesa que apresentarei uma declaração de voto."
         },
-        "632": {
+        "633": {
             "orador": "Carlos Abreu Amorim",
             "partido": "PSD",
             "discurso": "Sr. Presidente, peço a palavra."
         },
-        "633": {
+        "634": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Para que efeito, Sr. Deputado?"
         },
-        "634": {
+        "635": {
             "orador": "Carlos Abreu Amorim",
             "partido": "PSD",
             "discurso": "Sr. Presidente, é para o mesmo efeito."
         },
-        "635": {
+        "636": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Fica registado, Sr. Deputado. Sr. Deputado Paulo Trigo Pereira, tem a palavra."
         },
-        "636": {
+        "637": {
             "orador": "Paulo Trigo Pereira",
             "partido": "PS",
             "discurso": "Sr. Presidente, é também para anunciar que apresentarei uma declaração de voto.  57"
         },
-        "637": {
+        "638": {
             "orador": "Presidente",
             "partido": "",
             "discurso": "Fica registado, Sr. Deputado. Tem a palavra, Sr. Deputado Santinho Pacheco."
         },
-        "638": {
+        "639": {
             "orador": "Santinho Pacheco",
             "partido": "PS",
             "discurso": "Sr. Presidente, é para informar que apresentarei uma declaração de voto."
         },
-        "639": {
+        "640": {
             "orador": "Presidente",
             "partido": "",
-            "discurso": "Ficam registadas estas declarações, Sr.as e Srs. Deputados. Amanhã temos reunião plenária às 15 horas. Da ordem do dia consta um debate, por marcação do CDS-PP, sobre «Fundos Europeus, coesão social e territorial» e a discussão dos projetos de resolução n.os 1269/XIII (3.ª) — Recomenda ao Governo que atempadamente proceda à definição das orientações políticas relativas à negociação do Quadro Financeiro Plurianual 2021-2027 (CDS-PP) e 1648/XIII (3.ª) — Recomenda ao Governo que defenda os interesses nacionais no âmbito do Quadro Financeiro Plurianual 2021-2027 (PSD). No final do debate teremos as votações regimentais. Sr.as e Srs. Deputados, boa tarde a todos e até amanhã. Está encerrada a sessão. Eram 18 horas e 27 minutos.——— Declarações de voto entregues à Mesa para publicação Relativas aos projetos de lei n.os 418/XIII (2.ª) e 773, 832 e 838/XIII (3.ª): Estamos perante um tema de consciência, um dos mais difíceis que conheci enquanto Deputada nesta Assembleia. Por princípio, em situações muito concretas e bem definidas, defendo a possibilidade de existir legislação que permita a uma pessoa que está em sofrimento extremo e desproporcionado, sem qualquer hipótese de melhoria, decidir se quer viver ou morrer. Ao longo dos tempos, nomeadamente em debates onde participei, defendi a existência de um referendo sobre este tema. Esta opção, de referendar a posição a tomar, justifica-se por vários motivos, entre os quais está o facto de este tema não ter constado nos programas eleitorais das forças políticas mais votadas. A importância do tema, bem visível pela forma como agitou toda a sociedade portuguesa, justifica um debate muito alargado que permita a todos a realização de escolhas absolutamente conscientes. Hoje, e tal como temos alertado repetidamente na Comissão de Saúde, é certo para todos que o Estado não tem investido o suficiente nos cuidados paliativos. Este unanimismo deve obrigar a um aumento imediato das respostas neste tipo de cuidados. De forma alguma, a eutanásia pode aparecer como uma solução economicista. A solução legal, que acredito poder ser equacionável, deveria resolver os problemas de sofrimento extremo, permitindo decisões individuais em situações muito concretas. Mas não deve ser uma solução fácil que empurre os idosos para o suicídio para não criarem problemas à família. Infelizmente, analisados dados de alguns países europeus onde a eutanásia é legislada, sinto que existem demasiados idosos a recorrer a este sistema. Temo que num país como Portugal, onde temos muitas pessoas a viverem com reformas muito baixas, existam idosos que se sintam empurrados para o suicídio para não serem um problema para a família. Temo que os idosos, por decisão própria ou por bullying, optem pelo suicídio. Mais do que nunca, julgo que a sociedade portuguesa obriga a que se debata e reflita, confrontando prós e contras, analisando vantagens e desvantagens, de forma apaixonada mas racional. Não me parece justo, ou sequer humano, que, perante tamanha ausência de debate, estes 230 Deputados, que aqui procuram representar uma Nação milenar, possam, em consciência, tomar tamanha decisão com autonomia. Ainda para mais quando, se tomada, se trata de uma decisão irreversível que não possibilitará a necessária discussão. Voto contra estes projetos de lei porque, sem radicalismos e em consciência, acredito que, face a todas as questões que esta problemática levanta, se exige o debate mencionado, sem estigmas, para que, no momento certo, se possa então decidir sobre tão profunda alteração na nossa sociedade. A Deputada do Grupo Parlamentar do PSD, Fátima Ramos. —— A votação sobre a legalização da eutanásia é a mais difícil decisão que em dois anos e meio, como Deputada, fui obrigada a tomar. Votei favoravelmente. Fi-lo relativamente a um dos projetos de lei, ao projeto de lei n.º 832/XIII (3.ª), pelas razões que passarei a explicar. Até porque o meu sentido de voto estaria sempre dependente, depois de uma análise ponderada e cuidadosa de cada uma das soluções apresentadas, dos limites e das garantias dadas para o tema em apreço. Respeitando a sua história em matérias de consciência, optou, como não poderia deixar de ser, o Partido Social Democrata por dar liberdade de voto a todos os seus Deputados. É esta uma questão cuja resposta depende, como nenhuma outra, das nossas mais profundas convicções pessoais, do nosso sentido de moralidade e de dever, de acordo com aquelas que são as nossas experiências e do nosso quadro axiológico. Nenhum partido é dono da consciência de ninguém e a liberdade de voto de cada um dos Deputados do Partido Social Democrata demonstra e reitera precisamente isso mesmo. Não sendo nova nem recente esta discussão, e ainda que a mesma pudesse ter sido sujeita a um referendo, a verdade é que houve de facto um amplo e prolongado debate sobre o tema, não apenas na Assembleia da República como na sociedade portuguesa. Desde 2016, o debate da morte assistida generalizou-se com o lançamento do manifesto «Direito a morrer com dignidade». Importa a este propósito deixar claro, ainda assim, que, para mim, a legalização da eutanásia se trata não da edificação de um qualquer direito a morrer. A questão coloca-se ao nível da disposição individual e pessoal do direito à vida, da sua conformação com a autonomia e da dignidade da pessoa humana, ou seja, da possibilidade de se dispor da própria vida em circunstâncias muito especiais. É inegável que a autodeterminação do doente através da exigência de consentimento informado tem ganho particular expressão, seja desde logo na Lei de Bases da Saúde, seja mais recentemente através da regulação das diretivas da vontade, designadamente sob a forma de testamento vital, criando para o efeito o Registo Nacional do Testamento Vital. E a este respeito importa referir que, sendo certo que a ordem jurídica passou a consagrar o testamento vital, nos termos do qual cada um de nós poderá, por exemplo, manifestar o tipo de tratamento ou os cuidados de saúde que pretende ou não receber quando estiver incapaz de expressar a sua vontade, a verdade é que está longe de ser a resposta que por ora pretendemos dar a uma realidade que, não sendo a ideal nem a desejável, importa atender, sem que com isso se procure negar a necessária consciencialização e divulgação de um instrumento que já existe mas que muitos ainda não conhecem. O que aqui está em discussão é a possibilidade de a lei consagrar a antecipação da morte por decisão da própria pessoa, em situação de sofrimento extremo, com lesão definitiva ou doença incurável e fatal. Garante-se que esta é praticada ou ajudada por profissionais de saúde, obedecendo esta decisão a um procedimento clínico e legal, de forma a que decorra de uma vontade do próprio, atual, séria, livre e esclarecida. Esta é, em primeiro lugar, uma decisão individual que não pode em circunstância alguma ser delegada em terceiros, em que é o próprio titular do direito à vida que dispõe do mesmo, desde que verificada a circunstância de estar numa situação de sofrimento atroz, num quadro em que a doença coloque em causa a sua dignidade e sem que exista possibilidade de cura. Importa-me numa visão garantística a salvaguarda da ponderação e da liberdade de escolha de cada doente. A garantia é dada pelo facto de o médico ser escolhido pelo doente, de intervir o médico da especialidade da patologia do paciente e de uma eventual intervenção de um médico psiquiatra, bem como decorre da existência de uma comissão de verificação e avaliação do procedimento clínico de antecipação da morte e da intervenção da Inspeção das Atividades em Saúde. Aliás, a intervenção em todo o processo de médicos, enfermeiros, juristas e especialistas em bioética que compõem a Comissão de Verificação é uma das garantias de que esta não será de todo uma decisão imponderada, condicionada ou motivada por qualquer outro fator que não seja a livre, firme e reiterada vontade do doente. Por outro lado, parece-me fundamental a garantia de que esta se trata de uma decisão tomada pelo próprio no exato e preciso momento em que as circunstâncias se verificam. Daí que só mereça o meu voto favorável a iniciativa legislativa que em caso de inconsciência garanta a interrupção do procedimento. Sobre a questão da sua compatibilização com o quadro constitucional vigente, como referiu o Professor Costa Andrade «a penalização e a despenalização de morte assistida são ambas constitucionais porque a  59 Constituição, após a previsão dos valores fundamentais ‘vida’ e ‘autonomia’, delega no legislador ordinário a facilidade de maximizar e compatibilizar estes dois valores fundamentais». Sobre o Direito Comparado e o afamado conceito da «rampa deslizante», depois de uma leitura atenta dos vários projetos de lei em discussão, a conclusão que se retira é que ficam de fora os exemplos que noutros países desvirtuaram por completo o conceito original. Em qualquer um dos projetos se garante que não será aplicada a eutanásia numa situação de uma qualquer doença, não será aplicada a eutanásia a crianças, nem será aplicada a eutanásia a uma qualquer pessoa que esteja momentaneamente numa depressão. Afastado que está o fantasma da rampa deslizante, voltemos então ao que está em causa. Está em causa a resposta que o ordenamento jurídico dará a qualquer uma das pessoas que, estando numa situação de sofrimento extremo, com lesão definitiva ou doença incurável e fatal, queira, no exercício da sua liberdade individual e indisponível, morrer. Nenhum de nós irá dispor da vida de ninguém. Trata-se, outrossim, de permitir que cada um de nós, no exercício pleno e integral da sua liberdade, o possa fazer, única e exclusivamente, relativamente a si próprio. A Deputada do PSD, Margarida Balseiro Lopes. —— Acabámos de discutir, na generalidade, um conjunto de diplomas sobre matérias que, por interesse do debate, se encaixam numa só palavra — eutanásia. O Partido Socialista apresenta a sua iniciativa mas não limita a opção dos seus Deputados. Mesmo assim, porque o mundo mudou muito, o meu voto é o único autorizadamente diferente. Não será novidade. Em 2003 já havia acontecido, com a interrupção voluntária da gravidez, uma indagação dissonante na matéria de facto e na proposta de realização de um referendo. Não pondero, nunca ponderei, nas minhas leituras sobre os deveres constitucionais dos Deputados que neles caiba a autorização para transportarem para as consultas populares matérias desta natureza. A minha democracia é representativa, deve suster-se nos eleitos para a permissão das inovações legais. Estas posições ajudaram a consolidar uma ideia perante outros — a de que teria uma minha visão religiosa dos temas que referi. Nada de mais tonto e desconexo. Por essa razão arroguei a necessidade de aqui deixar as linhas que desagrego perante as grandes questões éticas que se colocam hoje às nossas sociedades, as ponderações que poderemos (ou deveremos) ter em tempos de ausência de paciência para a argumentação e de excesso de barulho e de arrogância perante a divergência. Divido as grandes questões de sociedade que hoje enfrentamos em dois grupos: o primeiro, o que nos leva ao objetivo da felicidade. Este grupo, pela sua natureza, esbate a tal leitura religiosa da vida. Assumo o princípio da felicidade na autorização do casamento entre pessoas do mesmo sexo. Trata-se de não projetar contra outrem uma obrigação pela ordem social durante séculos instituída, trata-se de desobrigar o ser humano, na sua diversidade, a encontrar o caminho sem preconceito de qualquer espécie. Assumo o princípio da felicidade na autorização, na militância, pela adoção de crianças por qualquer ser humano, reveja-se ele em qualquer das nossas realidades familiares, desde que livre e concedente de amor, desde que disponível para consagrar vida a uma outra vida. Assumo o princípio da felicidade na autorização do encontro de cada um consigo próprio. É esse o primórdio que está subjacente aos projetos que apoiei de determinação complectiva de género, em liberdade. Por esta lista de opções poderiam os mais desatentos encostar-me aos mais progressistas dos Deputados portugueses. Não é adjetivo que rejeite, porque assim me considero, porque assim milito em permanência. Aliás, é por esse lado se inicia também o primeiro dos grandes argumentos pela vida, na minha observação devida e felicidade como análogos societais. A minha opção positiva pelas técnicas inovadoras de criar vida, sejam elas quais forem, usem que métodos, sistemas ou orquestrações jurídicas usarem, recebem de mim a manifestação satisfatória da evolução que devemos trilhar. É exatamente por isso que lamento a posição do Tribunal Constitucional sobre a gestação de substituição, esquecendo a alegria de muitos casais que esperavam alcançar a sua plenitude. Vida, trata-se de defender a vida, de a promover, de fazer mundo, de encontrar na ciência o que a circunstância específica de duas pessoas não permitiu biologicamente.  A vida, essa coisa mágica, essa realidade filosófica que nunca terá uma resposta, razão, ou equação, é o ponto que me levou a não aprovar a atual lei da interrupção voluntária da gravidez. O meu limite sempre foi os três registos que a ética também nos impõe — violação, risco para a saúde da mãe, malformação do feto. Não importa regressar agora a este debate. Ele está hoje tão entranhado na nossa circunstância relativizada que já nem a mais conservadora Irlanda se mantém na sombra do olhar tutelar da Igreja. Entramos agora na questão da morte assistida, ou na eutanásia, por economia de conceitos. Já acima referi a minha discordância e a minha circunstância de Deputado socialista minoritário. Importa agora indicar as razões que já desenvolvi, em tempos e circunstâncias diversas, mas que estes dias obrigam a recolocar. Tenho para mim que é dever dos poderes públicos a preservaçãoda vida, não a conjugação das autorizações para a sua eliminação. A ciência, como atrás já referi, dá-nos, a cada dia, surpreendentes notícias, concede-nos um campo de novas oportunidades que deveremos assumir. Para mim, o Parlamento não pode conceder que esta seja uma matéria de reserva de cada um e o sinal de que se pode «matar» não é um avanço, é, sim, um recuo social. Tenho para mim que a dignidade não se ganha com a conceção de um poder desesperado perante o sofrimento, mas ganha-se olhando para esse sofrimento físico e psicológico e concedendo-lhe todos os meios para o eliminar. Tenho para mim que incumbe a todos nós um olhar sobre a responsabilidade para que a vida, toda a vida, seja digna. Ora, a reivindicação de uma morte digna é, exatamente, o contrário do que devemos assumir enquanto magma de valores, enquanto repositório de conquistas sobre o infortúnio. Tenho para mim que o Estado deve apostar na vidao mais longa possível, na sua qualidade e valia, na determinação de políticas onde cada um, seja qual for a sua juventude, assuma um papel, se consagre num tempo de equilíbrio entre gerações. A autorização da morte antecipada, por razões físicas, mas também por razões psicológicas, é o encurtar do nosso modelo de encontro da felicidade, é a resposta antecipada para um tempo de indivíduos afastados do gregário. Desistir da vida começa num dia, em determinadas circunstâncias, mas nunca mais para, alargando-se, em tempos posteriores, as razões para dela nos desprendermos. Tenho para mim que, enquanto comunidade, deveremos olhar as fraquezas do regime legal do testamento vital, a sua difusão e a promoção da adesão obrigatória, como também tenho o dever de exigir que se consagre, no SNS, a rede adequada de cuidados paliativos. Há, no meu partido, o Partido Socialista, a reivindicação permanente do humanismo, da sua relevância para o nosso ser coletivo. É nesse mesmo humanismo que eu penso militar. Não o proclamo mas vivo-o, não o dispenso só para ato distante dos amanhãs. É exatamente por isso que não posso estar lá, não posso concordar com o caminho que nos sugerem. Foi exatamente por isso que votei contra. O Deputado do PS, Ascenso Simões. —— No passado dia 29 de maio, os projetos de lei n.os 418/XIII (2.ª) (PAN), 773/XIII (3.ª) (BE), 832/XIII (3.ª) (PS) e 838/XIII (3.ª) (Os Verdes) foram objeto de votação em reunião plenária. Votámos favoravelmente o projeto de lei do Partido Socialista e abstivemo-nos nos restantes por considerarmos que as iniciativas mereciam ponderações diferentes. A despenalização da eutanásia é provavelmente o tema mais complexo e difícil desta legislatura. Ninguém discute que viver é um direito e proteger a vida é um dever do Estado, e além disso todos concordamos na importância de reforçarmos os cuidados paliativos no nosso país. A nossa convicção cristã também nos impele para a defesa da vida e para o valor da vida, mas temos igualmente bem presente que cada indivíduo deve ser livre e responsável pelas suas escolhas. Hoje, a antecipação da morte de alguém que sofre de forma extrema é crime. Mas um doente com um sofrimento atroz, cruel, insuportável, permanente e em fase terminal de vida, deve ser obrigado a viver, contra a sua vontade? Teremos nós o direito de impedir que seja ajudado alguém que, perante um diagnóstico irreversível, com um sofrimento incomensurável, faça um pedido de forma livre, consciente, informada, esclarecida, reiterada e isenta de dúvidas para que lhe abreviem a morte? A despenalização consagrada na lei como um direito a que todos podem recorrer permitiria que cada pessoa  61 assumisse a opção que entendesse sobre os últimos momentos da sua vida. Por isso, votámos a favor a iniciativa do PS, dado que esta salvaguardava um conjunto de premissas fundamentais, a saber, a legalização da eutanásia seria possível apenas em circunstâncias excecionalíssimas, exclusivamente para um indivíduo com um diagnóstico irreversível, com um sofrimento incomensurável, que fizesse um pedido de forma livre, consciente e informada, esclarecida, reiterada e isenta de quaisquer dúvidas para que lhe abreviassem a morte. Os Deputados do PS, Lara Martinho — Joaquim Barreto. —— Votei favoravelmente estes projetos de lei porque considero a primazia de um valor maior que é o da liberdade individual e entendo que a responsabilidade de um Deputado à Assembleia da República, enquanto legislador, é a de, no exercício das suas competências, agir e decidir de acordo com o que for melhor para o bem comum, para a defesa do interesse público e para a garantia das liberdades individuais, sendo que esta avaliação tem sempre de ser feita observando as circunstâncias e características da realidade portuguesa no determinado período temporal em que se legisla e se aplica a Lei. Ao votar favoravelmente os projetos de lei sobre a morte medicamente assistida, assim decidi enquanto Deputado legislador que deve em consciência legislar para a sociedade e para a realidade do seu tempo, colocando neste caso a abertura da possibilidade do exercício pleno da liberdade individual de cada pessoa poder decidir se quer ou não, nos termos legais, recorrer à morte medicamente assistida. Depois de uma profunda reflexão e ponderação, estou convicto de que o melhor neste caso é respeitar a liberdade individual e não restringir as opções de cada um. Votei favoravelmente porque assim interpreto a exigência e posicionamento que cabe aos Deputados e que se pode resumir no seguinte: o Deputado legisla para o bem da sociedade e das pessoas e não apenas para si ou para as suas opções, convicções e simpatias individuais. Do ponto de vista pessoal, tenho grandes dúvidas sobre a decisão de querer a morte medicamente assistida. Sou da religião católica, nunca experienciei as dramáticas e dolorosas situações em que a morte medicamente assistida pode ser praticada e esta é uma matéria extremamente difícil de encarar e pensar com certezas absolutas. Precisamente por isto, é mais sensato, adequado e justo abrir a possibilidade legal do exercício da liberdade individual. Não aceito os argumentos de que o que seria necessário era porventura votar contra com uma aposta na melhoria e reforço dos cuidados de saúde ou votar contra porque estes projetos de lei podem permitir situações de homicídio ou falta de prestação de cuidados de saúde. Tal não é verdade, porquanto a melhoria dos cuidados de saúde não responde nem a todos os casos, nem no tempo que é justo e, por outro lado, os projetos de lei são equilibrados com particular rigor na definição das condições em que a decisão da morte medicamente assistida é tomada com a previsão de um procedimento garantístico a todo o momento. Não se pode pedir a um Deputado, nem o Deputado pode assumir o papel de um ativista religioso, moral ou filosófico. Eu votei favoravelmente porque, independentemente das minhas opções e crenças pessoais, a legalização da morte medicamente assistida, para a sociedade e para o indivíduo do nosso tempo, é a decisão mais correta, adequada e justa em democracia. O Deputado do PS, Nuno Sá. —— Os projetos de lei n.os 418/XIII (2.ª) (PAN), 773/XIII (3.ª) (BE), 832/XIII (3.ª) (PS) e 838/XIII (3.ª) (Os Verdes) visavam, em termos muito ponderados e circunscritos, assegurar a despenalização da eutanásia e do suicídio medicamente assistido em circunstâncias muito excecionais, específicas e delimitadas por vontade do doente. Os projetos apresentavam um conteúdo muito similar e sem grandes diferenças de fundo entre si, o que facilitaria a sua conjugação e consolidação em sede de discussão na especialidade. Todos os projetos faziam assentar o pedido de eutanásia ou de suicídio medicamente assistido em dois pilares essenciais.  Por um lado, encontrávamos o pilar da situação clínica excecional, que em todos os projetos se apresentava como condição sine qua non para que o pedido pudesse ser realizado pelo doente e que, ainda que em termos terminológicos distintos (em questões de pormenor), apontavam apenas para casos de doenças incuráveis e fatais particularmente graves e penosas para o doente. Por outro lado, encontrávamos o pilar da vontade do doente, que se apresentava como claro em todos os projetos e que apontava para uma ideia geral de que a decisão de fazer o pedido competiria unicamente ao doente, baseando-se numa vontade livre, voluntária e esclarecida, havendo posteriormente uma série de momentos no procedimento subsequente a esse pedido em que o doente tinha a hipótese de confirmar ou reiterar o seu pedido por um grande número de vezes — quatro vezes no projeto de lei do PAN e até cinco vezes nos demais —, o que assegurava uma autenticidade e certeza dessa vontade, sendo possível, a todo o tempo, revogar o pedido, tendencialmente sem necessidade de qualquer fundamentação ou formalidade especifica, o que traz o fim imediato do processo em curso sem possibilidade de reabertura, ainda que com possibilidade de novo pedido no futuro. Esta importância crucial atribuída à vontade do doente surge também na situação prevista, expressamente nos projetos de lei do PAN, do BE e do PS e implicitamente no projeto de lei de Os Verdes, de perda de consciência do doente, que traz a interrupção do procedimento até eventual posterior recuperação da consciência pelo doente, sendo que só o BE permite que o procedimento prossiga se tal estiver consagrado na Declaração Antecipada de Vontade constante do respetivo testamento vital. De resto, diga-se que ainda que os projetos atribuíssem uma importância crucial a esta vontade do doente, faziam-no de modo a não absolutizar essa vontade ou valorizá-la sem quaisquer limites, colocando para o efeito dois limites que visavam assegurar precisamente a perfeição dessa vontade e a sua expressão em termos efetivamente livres, conscientes, aceitáveis e equilibrados. O primeiro desses limites surgia-nos pelo primeiro pilar, por mim já referido, que exige que haja uma situação clínica muito específica e bem delimitada que faz com que o doente não possa requerer a eutanásia ou suicídio medicamente assistido em qualquer situação que lhe aprouver. O segundo desses limites surge-nos pela garantia de uma intervenção médica especializada: do médico a quem o pedido foi dirigido, de um médico psiquiatra — sendo que só nos projetos de lei do PAN e de Os Verdes esta intervenção é obrigatória, sendo facultativa nos demais — e de um médico especialista ou de uma comissão especializada, em várias fases do procedimento. Isto visava assegurar o completo cumprimento da lei e a integridade do pedido e da vontade do doente, sendo que o objetivo desta intervenção especializada era deixar claro ao doente as implicações subjacentes ao seu pedido, verificar se as exigências legais e formais do pedido eram cumpridas e se o doente gozava da idoneidade/capacidade psíquica exigível para formular o pedido, impedindo-se, em caso negativo, o prosseguimento do procedimento, sendo que nuns projetos admitia-se recurso ou reavaliação e noutros não. Note-se que o direito de objeção de consciência destes médicos estava assegurado em todos os projetos de lei e que, uma vez concluído todo este complexo procedimento, a eutanásia ou o suicídio medicamente assistido poderiam ocorrer em local indicado pelo doente (algo só admitido pelos projetos de lei do BE e do PS), ou estabelecimentos de saúde públicos (só nestes segundo o projeto de lei de Os Verdes) ou privados (algo admitido pelos demais projetos) e para o concretizar a disponibilização ou administração do fármaco letal seria feita exclusivamente por médicos, segundo Os Verdes, por médicos com eventual auxílio de enfermeiros, segundo o PAN, ou por médicos ou enfermeiros com supervisão médica, de acordo com o BE e o PS, conforme os projetos de lei. Assim, feito este breve enquadramento geral e comparativo dos quatro projetos que estiveram em discussão, importa olhar para algumas das críticas apresentadas contra eles quer por indivíduos e organizações da sociedade civil, nas semanas que antecederam o debate, quer pelos diversos Deputados em sede de discussão em Plenário. A primeira das críticas que surgiu, demonstrando uma clara desinformação e pouca seriedade intelectual, foi a de comparar despenalização da eutanásia e do suicídio medicamente assistido (proposta pelo PAN, BE, PS e Os Verdes) a uma eutanásia eugénica ou uma eutanásia social ou económica, dizendo-se que a aprovação desta despenalização traria uma «licença para matar». Ora, face a esta crítica não posso contrapor senão a minha indignação porque elas são críticas que desviam a discussão do essencial (o conteúdo dos quatro  63 projetos) procurando uma intimidação «com um exercício de especulação alarmista»1, pelo que importa, desde já e nesta sede, desmitificá-la. Diga-se, por um lado, que, como ficou claro da análise geral dos projetos apresentados, o que estava em causa era a possibilidade de proporcionar a quem assim o deseje (através da expressão de uma vontade livre, voluntária, esclarecida e reiterada) uma morte suave a quem se encontre numa fase terminal da sua vida afetado por uma doença incurável e especialmente penosa, o que nunca se pode confundir nem com as situações (com um lastro histórico negro) em que há eutanásia, independentemente da vontade do doente, para garantir a supressão de vidas humanas consideradas indignas de serem vividas em nome da pureza da raça (eutanásia eugénica), nem com as situações em que há eutanásia, independentemente da vontade do doente, com base numa visão utilitarista do homem que visa a eliminação daqueles que representem um encargo sem qualquer contrapartida para a sociedade. Os projetos de lei apresentados, como demonstrei anteriormente, visavam precisamente evitar estas situações, sacralizando a vontade do doente só limitada por válvulas de segurança que visavam assegurar a perfeição dessa vontade e a sua expressão em termos efetivamente livres, conscientes, aceitáveis e equilibrados, e faziam-no de modo cauteloso que evitava a introdução de uma lógica de «indústria da morte»2 ou de comercialização da morte no nosso País, já que, conforme se sublinhou, a eutanásia involuntária era totalmente excluída, exigindo-se um conjunto de condições bem delimitadas e rigorosas para que o pedido pudesse ser feito e concretizado e que o doente tivesse nacionalidade portuguesa ou residência legal em território português e impedindo-se (nos projetos de lei do PS e do BE) a possibilidade de intervenção na concretização dos profissionais que possam retirar benefício direto ou indireto da morte do doente. Assim, através da despenalização da eutanásia ou do suicídio medicamente assistido não se pretendia incentivar ou recomendar estas práticas. De resto, nenhum clínico deve recomendar o que quer que seja a um doente, devendo antes, sim, informá-lo sobre as várias possibilidades, os riscos associados a cada uma delas, para que ele, sozinho, ou acompanhado pela família e amigos, tome a decisão que achar mais válida. Por outro lado, diga-se que é absolutamente errado considerar que estes projetos pretendiam tornar lícitos a eutanásia ou o suicídio medicamente assistido ou incentivá-los sem limites, tratava-se, sim, de despenalizar estas práticas quando praticadas em certas circunstâncias muito específicas e bem delimitadas e reguladas por lei, sendo que mesmo nessas situações bem delimitadas não deixaria de haver um ilícito e um crime, o que sucedia era que esta não seria uma prática punível — sendo que nas demais situações em que se extravasassem os termos bem delimitados e rígidos em que esta prática não seria punível o regime atualmente em vigor ficaria intocado, já que nenhum dos partidos propunha a alteração os artigos 134.º, n.os 1 e 2, e 135.º, n.º 1 e 2 do Código Penal). A segunda das críticas surge da contraposição da prestação dos cuidados paliativos à eutanásia/suicídio medicamente assistido, considerando-se que estamos perante duas realidades inconciliáveis — só se podendo ser a favor de uma dessas realidades — e da afirmação de que, havendo cuidados paliativos e havendo testamento vital, já não seria necessário consagrar a possibilidade legal da eutanásia e do suicídio assistido. Esta crítica não se me apresenta como razoável porque não cabe ao legislador nem ao médico obrigar a que os únicos caminhos possíveis sejam, alternativamente, o dos cuidados paliativos ou o do testamento vital, cabe, antes, ao doente, saber os caminhos que tem no final da sua vida e poder escolher o mais válido, ainda que consciente e informado pelo médico sobre as várias possibilidades e os riscos associados a cada uma. Estamos no plano do respeito escrupuloso da vontade do doente. Há quem argumente que o Estado no SNS deveria investir mais em cuidados paliativos. Há, de facto, carências neste domínio, que são supridas no sector privado para quem tem rendimentos para a ele aceder. Porém, o argumento da necessidade de melhor resposta pública no âmbito dos cuidados paliativos em nada tem a ver com o debate sobre a eutanásia. A terceira das críticas apresentadas prende-se com a ideia de que a eutanásia, embora sendo ilegal, já seria atualmente praticada pelo que não seria necessário consagrar por via legal uma despenalização desta prática. Há aqui um paralelismo com a interrupção voluntária da gravidez (IVG). As mulheres de classes médias e altos                                                           1 Pedro Galvão, «Ética com Razões», Fundação Francisco Manuel dos Santos, 2015, página 56. 2 A expressão em José de Oliveira Ascensão, «A Terminalidade da Vida» in «Estudos de Direito da Bioética», volume IV, Almedina, 2012, página 156 (ainda que não inserida na discussão destas iniciativas).   rendimentos faziam-no em segurança fora do país; as mais pobres faziam-no em condições inacreditáveis, em «vãos de escada» e por vezes morriam. A primeira semelhança é que existe uma componente redistributiva como consequência da atual criminalização. São os doentes de mais recursos que têm acesso a clínicas em países europeus para o suicídio assistido e a eutanásia, ou que têm acesso a bons cuidados paliativos em hospitais privados portugueses. Os de menos recursos têm acesso às condições que o SNS consegue dar e que não são, por razões compreensíveis de limitações de recursos públicos, as melhores. A segunda é que, não sendo legal, não é regulada, não havendo a distinção entre aquela que deve ser permitida e a que não deve ser. Concordo com aqueles que afirmam que o que não deve acontecer é a sedação paliativa degenerar em eutanásia clandestina. Pois suspeito que tal já acontece e a forma de não acontecer é aprovar e regulamentar uma lei sobre a eutanásia e não criminalizá-la sem limites. A quarta das críticas prende-se com a falta de legitimidade democrática da Assembleia da República para discutir o tema, uma vez que, segundo estes críticos, nenhum dos partidos políticos que agora apresentam projetos de lei teria colocado a questão no seu programa eleitoral ou levado a debate esta questão no quadro da campanha eleitoral de 2015, pelo que a opinião soberana dos eleitores não teria sido auscultada. Temos de rebater esta crítica em três pontos essenciais. Em primeiro lugar, importa sublinhar que o programa eleitoral do PAN, apresentado no âmbito da campanha eleitoral para as eleições legislativas de 2015, propunha trazer a eutanásia «à discussão, de modo a que se venha a definir se um/a cidadão/ã lúcido/a deve ou não, por razões se saúde, poder decidir terminar a sua vida», prometendo fazê-lo por via da criação de fóruns de discussão e pela abertura ao debate sobre a legalização da eutanásia em Portugal. Sobre o sentido das palavras inseridas no programa eleitoral só o próprio PAN se pode pronunciar, mas parece-me que, ao prometer a abertura da discussão sobre a eutanásia em Portugal por via da abertura do debate, tal só pode ser entendido, tendo em conta que estamos perante um programa eleitoral e não um mero manifesto ou programa político de um partido, no quadro da discussão institucional na Assembleia da República, como órgão com competência exclusiva na matéria. No quadro institucional, a única forma que um partido tem para lançar um debate consequente sobre este tema é precisamente o projeto de lei, tendo sido isso que o PAN fez, sendo que as boas práticas parlamentares apontam para que, uma vez que uma iniciativa legislativa relevante seja lançada por um partido, os restantes partidos políticos apresentem projetos alternativos que consagrem a sua visão sobre o tema, conste ela ou não do respetivo programa eleitoral. Em segundo lugar, importa referir que, não obstante o facto de o PAN ter colocado a questão no programa eleitoral — assegurando, assim, de forma clara a legitimidade democrática que tanto preocupa os críticos da eutanásia —, durante a atual legislatura, em 2016, o Movimento Cívico «Direito a Morrer com Dignidade» entregou a petição n.º 103/XIII (1.ª) (subscrita por 8427 cidadãos, de entre os quais alguns Deputados do PS, do BE e do PSD e até pelo atual líder do PSD) que exortava os Deputados e grupos parlamentares «a discutir e promover as iniciativas legislativas necessárias à despenalização da morte assistida». Naturalmente, em conformidade com o procedimento legalmente previsto, a petição mereceu uma profunda e transparente discussão no quadro da Assembleia da República, com várias audições, culminando com a aprovação de um relatório sobre a questão e com a discussão da petição em Plenário. Note-se, de resto, que à luz do artigo 19.º, n.º 1, alínea c), da Lei do Exercício do Direito de Petição (Lei n.º 43/90, de 10 de agosto) um dos muitos efeitos que este tipo de mecanismos pode desencadear, seguindo a interpretação de Jorge Miranda e Pedro Machete3, é precisamente a possibilidade de, na sequência de todo este processo de discussão, haver a elaboração por qualquer Deputado ou por qualquer grupo parlamentar de um projeto lei que se mostre justificado a dar resposta à questão colocada pela sociedade civil por via de petição. Assim, se legitimidade não houvesse pela ausência de referência ao tema nos programas eleitorais do PS, do BE e do PEV ela foi garantida por esta importante petição e por todo o processo que lhe sucedeu, que asseguraram um importante debate do tema na Assembleia da República (conforme, de resto, referem os preâmbulos dos projetos de lei do PAN e do PAN). Em terceiro lugar, é importante notar que o tema da despenalização da eutanásia mereceu um profundo debate no plano interno do PS e do BE. Por um lado, no PS, em 2017, por proposta de Isabel Moreira e Maria Antónia Almeida Santos, a Comissão Nacional (órgão máximo entre congressos) debateu e aprovou uma moção                                                           3 Jorge Miranda e Pedro Machete, anotação ao artigo 52.º in Jorge Miranda e Rui Medeiros, «Constituição Portuguesa Anotada», tomo I, 2.ª edição, Coimbra Editora, 2010, páginas 1026 e 1027.   65 que defendia a despenalização da eutanásia em situações especiais. Por seu turno, o BE, para além de ter incluído a questão no seu programa eleitoral para as eleições legislativas de 2009, apresentou, em 2017, um anteprojeto de lei de despenalização da morte assistida que foi discutido em colóquios e debates por todo o País, dando origem no final desse processo de discussão à apresentação do projeto de lei que agora se discutiu juntamente com os demais. Deste modo, a apresentação dos projetos de lei pelo PS e pelo BE é o resultado natural do processo de discussão interna levada a cabo no plano da vida e funcionamento destes dois partidos. Mesmo que assim não fosse e que as outras duas razões apresentadas anteriormente não existissem para reforçar a legitimidade na apresentação destas iniciativas, a própria natureza do mandato dos Deputados assegurá-la-ia, já que o mandato dos Deputados é livre, não sendo os eleitores os mandantes dos votos dos Deputados. Por fim, uma das críticas apresentadas por um conjunto de críticos, do qual se destaca Jorge Miranda4, iminente constitucionalista e professor universitário, que apontam para a inconstitucionalidade da despenalização da eutanásia e do suicídio medicamente assistido por via da violação frontal do artigo 24.º, n.º 1, da Constituição da República Portuguesa (direito à vida) que dispõe que «a vida humana é inviolável», o que, segundo estes autores, significa que, independentemente das circunstâncias e das intenções subjacentes, ninguém pode dispor da sua vida, como ninguém pode alienar a sua liberdade ou o respeito por si mesmo, não se podendo conceber a autonomia e liberdade sem responsabilidade e a dignidade da pessoa humana sem o respeito pela dignidade da vida. Ainda que não seja jurista, parece-me que a resposta a esta última importante crítica deve passar por três argumentos essenciais. Por um lado, deve notar-se, conforme sublinham Rui Medeiros e Jorge Pereira da Silva5, que o facto de o direito à vida ser o primeiro dos direitos (condição sine qua non dos demais direitos) não significa que haja uma permanente superioridade axiológica sobre os restantes direitos, pelo que este direito à vida exige, também, um respeito pela autonomia e liberdade próprias do individuo em todas as dimensões e em termos que lhe permitam dispor livremente da própria vida podendo, se for caso disso, escolher a própria morte6. De resto, como questiona acertadamente Fernando Araújo7, como pode considerar-se que se respeita a vida se não se respeita a vontade autónoma do indivíduo? Estamos no campo dos direitos humanos e aqui a opção é relativamente clara entre o que deve caber ao indivíduo e o que deve caber ao Estado: nem o Estado nem ninguém, para além do próprio indivíduo, deve decidir sobre o limite da dor e do sofrimento de uma pessoa na presença de uma doença incurável e fatal ou sobre o que é o bem-estar individual de cada pessoa. Não se comparam (nem podem comparar) vidas, níveis de sofrimento ou de felicidade. Note-se, também, que o ordenamento jurídico português tem dado passos que, fazendo eco das mudanças sociais profundas que ocorreram no nosso país desde a aprovação da Constituição da República Portuguesa, confirmam e reforçam este entendimento do direito à vida numa lógica moderna e dessacralizada, assente na autonomia e liberdade do indivíduo. Assim sucedeu, por exemplo, com a introdução do direito ao livre desenvolvimento da personalidade na CRP (Revisão Constitucional de 1998), a despenalização da IVG ou o chamado testamento vital, cuja constitucionalidade nunca foi posta em causa pelo Tribunal Constitucional. A aprovação da despenalização da eutanásia e do suicídio medicamente assistido representaria — e, estou certo, representará no futuro — mais um passo importante neste processo de valorização da autonomia e liberdade do individuo. Por outro lado, a eutanásia e o suicídio medicamente assistido não devem ser justificados com base no princípio da dignidade humana, uma vez que, conforme nota alguma doutrina8, este é um princípio que nesta discussão assume uma dupla dimensão, que lhe permite servir de argumento para ambos os lados do debate, já que se é verdade que pode ser invocado para a defesa da eutanásia por esta permitir uma morte digna, também é verdade que pode ser usado contra a eutanásia não só porque se pode dizer que a solicitação da                                                           4 Jorge Miranda, «Sobre a eutanásia» in Público, 30 de Maio de 2018, disponível em: 5 Rui Medeiros e Jorge Pereira da Silva, anotação ao artigo 24.º in Jorge Miranda e Rui Medeiros, «Constituição Portuguesa Anotada», tomo I, 2ª edição, Coimbra Editora, 2010, página 538. 6 Algo que resulta de um princípio de autonomia que decorre essencialmente do direito ao livre desenvolvimento da personalidade (26.º/1 CRP). 7 Fernando Araújo, «A procriação assistida e o problema da santidade da vida», Almedina, 1999, página 116. 8 Inês Fernandes Godinho, «Autodeterminação e morte assistida na relação médico-paciente» in «O Sentido e o Conteúdo do Bem Jurídico Vida Humana», Coimbra Editora, 2014, página 118 e seguintes e Júlia Maria Vieira Gonçalves, «Eutanásia, um problema de consciência» in RJLB, Ano 2 (2016), n.º 6, página 797.   morte é contrária a essa dignidade humana, mas também porque a resistência ao sofrimento e o entendimento de dignidade são muito variáveis de pessoa para pessoa (uma pessoa sujeita a elevado grau de sofrimento pode manter a dignidade enquanto outra com um menor grau de sofrimento pode não o conseguir fazer). Resta-me, por fim, reafirmar que entendo que cada uma e cada um deve ter o direito de viver a sua vida com liberdade, com dignidade e com autonomia e agir de acordo com a sua vontade, desde que isso não interfira na liberdade dos outros. Por esse motivo e por os demais motivos que apresentei anteriormente, votei a favor dos quatro projetos de lei, apresentados, respetivamente, pelo PAN, pelo BE, pelo PS e por Os Verdes. O Deputado do Grupo Parlamentar do Partido Socialista, Paulo Trigo Pereira. ——— A natureza do mandato dos Deputados é uma questão resolvida; o seu exercício é livre e representam todo o País. Apesar disto, não devemos ignorar que os Deputados são eleitos por círculos eleitorais e que se estabelece uma ligação de proximidade entre eleitores e eleito salutar à nossa vida democrática. Eu, que fui eleito pela Guarda, tento sempre defender o melhor que posso e sei os interesses legítimos, os valores mais profundos, da população do meu distrito natal. Interroguei-me: o que pensariam os cidadãos da Guarda acerca desta temática, sobre liberdade e autonomia, sobre a dignidade da pessoa humana, sobre a eutanásia? É uma resposta impossível, mas certamente estarão divididos como em todo o País. O que estava em causa com este pacote legislativo era a possibilidade de alguém, lúcido, com doença terminal e em sofrimento atroz, ter a liberdade de solicitar, conscientemente, o final da sua vida, encurtando-a, com o apoio de médicos e que estes profissionais clínicos não fossem criminalizados por isso. O nosso povo, na sua infinita sabedoria, costuma usar a expressão «isto já não era viver», quando conforta algum familiar ou comenta a morte de alguém em sofrimento. A minha irmã, referindo-se à nossa experiência com a doença do nosso pai, confessou-me que todos os dias «pedia a Deus que o levasse», impotente perante a dor e a impossibilidade de cura. Descriminalizar a eutanásia não significa recomendá-la. Com o voto a favor, ninguém ficava obrigado a escolher esse novo caminho que tem no final da sua vida. Mas com o voto contra estaria a impedir que outros fizessem essa escolha livre e consciente. Não me sai da cabeça o último olhar que guardo de meu pai na véspera da sua morte. Esta declaração de voto é também um testemunho pessoal. Quis, no momento de votar, proclamar bem alto «em memória de meu pai, A FAVOR». Não o fiz; faço-o agora solenemente. Que me desculpem os eleitores do distrito da Guarda que pensam diferente. É este o encanto maior da democracia. O Deputado do PS, Santinho Pacheco. ——— Nota: As declarações de voto anunciadas pelo Deputado do PSD Carlos Abreu Amorim e pelo Deputado do PS Miguel Coelho não foram entregues no prazo previsto no n.º 3 do artigo 87.º do Regimento da Assembleia da República.——— Presenças e faltas dos Deputados à reunião plenária. A DIVISÃO DE REDAÇÃO."
+            "discurso": "Ficam registadas estas declarações, Sr.as e Srs. Deputados. Amanhã temos reunião plenária às 15 horas. Da ordem do dia consta um debate, por marcação do CDS-PP, sobre «Fundos Europeus, coesão social e territorial» e a discussão dos projetos de resolução n.os 1269/XIII (3.ª) — Recomenda ao Governo que atempadamente proceda à definição das orientações políticas relativas à negociação do Quadro Financeiro Plurianual 2021-2027 (CDS-PP) e 1648/XIII (3.ª) — Recomenda ao Governo que defenda os interesses nacionais no âmbito do Quadro Financeiro Plurianual 2021-2027 (PSD). No final do debate teremos as votações regimentais. Sr.as e Srs. Deputados, boa tarde a todos e até amanhã. Está encerrada a sessão. Eram 18 horas e 27 minutos.——— Declarações de voto entregues à Mesa para publicação Relativas aos projetos de lei n.os 418/XIII (2.ª) e 773, 832 e 838/XIII (3.ª): Estamos perante um tema de consciência, um dos mais difíceis que conheci enquanto Deputada nesta Assembleia. Por princípio, em situações muito concretas e bem definidas, defendo a possibilidade de existir legislação que permita a uma pessoa que está em sofrimento extremo e desproporcionado, sem qualquer hipótese de melhoria, decidir se quer viver ou morrer. Ao longo dos tempos, nomeadamente em debates onde participei, defendi a existência de um referendo sobre este tema. Esta opção, de referendar a posição a tomar, justifica-se por vários motivos, entre os quais está o facto de este tema não ter constado nos programas eleitorais das forças políticas mais votadas. A importância do tema, bem visível pela forma como agitou toda a sociedade portuguesa, justifica um debate muito alargado que permita a todos a realização de escolhas absolutamente conscientes. Hoje, e tal como temos alertado repetidamente na Comissão de Saúde, é certo para todos que o Estado não tem investido o suficiente nos cuidados paliativos. Este unanimismo deve obrigar a um aumento imediato das respostas neste tipo de cuidados. De forma alguma, a eutanásia pode aparecer como uma solução economicista. A solução legal, que acredito poder ser equacionável, deveria resolver os problemas de sofrimento extremo, permitindo decisões individuais em situações muito concretas. Mas não deve ser uma solução fácil que empurre os idosos para o suicídio para não criarem problemas à família. Infelizmente, analisados dados de alguns países europeus onde a eutanásia é legislada, sinto que existem demasiados idosos a recorrer a este sistema. Temo que num país como Portugal, onde temos muitas pessoas a viverem com reformas muito baixas, existam idosos que se sintam empurrados para o suicídio para não serem um problema para a família. Temo que os idosos, por decisão própria ou por bullying, optem pelo suicídio. Mais do que nunca, julgo que a sociedade portuguesa obriga a que se debata e reflita, confrontando prós e contras, analisando vantagens e desvantagens, de forma apaixonada mas racional. Não me parece justo, ou sequer humano, que, perante tamanha ausência de debate, estes 230 Deputados, que aqui procuram representar uma Nação milenar, possam, em consciência, tomar tamanha decisão com autonomia. Ainda para mais quando, se tomada, se trata de uma decisão irreversível que não possibilitará a necessária discussão. Voto contra estes projetos de lei porque, sem radicalismos e em consciência, acredito que, face a todas as questões que esta problemática levanta, se exige o debate mencionado, sem estigmas, para que, no momento certo, se possa então decidir sobre tão profunda alteração na nossa sociedade. A Deputada do Grupo Parlamentar do PSD, Fátima Ramos . — A votação sobre a legalização da eutanásia é a mais difícil decisão que em dois anos e meio, como Deputada, fui obrigada a tomar. Votei favoravelmente. Fi-lo relativamente a um dos projetos de lei, ao projeto de lei n.º 832/XIII (3.ª), pelas razões que passarei a explicar. Até porque o meu sentido de voto estaria sempre dependente, depois de uma análise ponderada e cuidadosa de cada uma das soluções apresentadas, dos limites e das garantias dadas para o tema em apreço. Respeitando a sua história em matérias de consciência, optou, como não poderia deixar de ser, o Partido Social Democrata por dar liberdade de voto a todos os seus Deputados. É esta uma questão cuja resposta depende, como nenhuma outra, das nossas mais profundas convicções pessoais, do nosso sentido de moralidade e de dever, de acordo com aquelas que são as nossas experiências e do nosso quadro axiológico. Nenhum partido é dono da consciência de ninguém e a liberdade de voto de cada um dos Deputados do Partido Social Democrata demonstra e reitera precisamente isso mesmo. Não sendo nova nem recente esta discussão, e ainda que a mesma pudesse ter sido sujeita a um referendo, a verdade é que houve de facto um amplo e prolongado debate sobre o tema, não apenas na Assembleia da República como na sociedade portuguesa. Desde 2016, o debate da morte assistida generalizou-se com o lançamento do manifesto «Direito a morrer com dignidade». Importa a este propósito deixar claro, ainda assim, que, para mim, a legalização da eutanásia se trata não da edificação de um qualquer direito a morrer. A questão coloca-se ao nível da disposição individual e pessoal do direito à vida, da sua conformação com a autonomia e da dignidade da pessoa humana, ou seja, da possibilidade de se dispor da própria vida em circunstâncias muito especiais. É inegável que a autodeterminação do doente através da exigência de consentimento informado tem ganho particular expressão, seja desde logo na Lei de Bases da Saúde, seja mais recentemente através da regulação das diretivas da vontade, designadamente sob a forma de testamento vital, criando para o efeito o Registo Nacional do Testamento Vital. E a este respeito importa referir que, sendo certo que a ordem jurídica passou a consagrar o testamento vital, nos termos do qual cada um de nós poderá, por exemplo, manifestar o tipo de tratamento ou os cuidados de saúde que pretende ou não receber quando estiver incapaz de expressar a sua vontade, a verdade é que está longe de ser a resposta que por ora pretendemos dar a uma realidade que, não sendo a ideal nem a desejável, importa atender, sem que com isso se procure negar a necessária consciencialização e divulgação de um instrumento que já existe mas que muitos ainda não conhecem. O que aqui está em discussão é a possibilidade de a lei consagrar a antecipação da morte por decisão da própria pessoa, em situação de sofrimento extremo, com lesão definitiva ou doença incurável e fatal. Garante-se que esta é praticada ou ajudada por profissionais de saúde, obedecendo esta decisão a um procedimento clínico e legal, de forma a que decorra de uma vontade do próprio, atual, séria, livre e esclarecida. Esta é, em primeiro lugar, uma decisão individual que não pode em circunstância alguma ser delegada em terceiros, em que é o próprio titular do direito à vida que dispõe do mesmo, desde que verificada a circunstância de estar numa situação de sofrimento atroz, num quadro em que a doença coloque em causa a sua dignidade e sem que exista possibilidade de cura. Importa-me numa visão garantística a salvaguarda da ponderação e da liberdade de escolha de cada doente. A garantia é dada pelo facto de o médico ser escolhido pelo doente, de intervir o médico da especialidade da patologia do paciente e de uma eventual intervenção de um médico psiquiatra, bem como decorre da existência de uma comissão de verificação e avaliação do procedimento clínico de antecipação da morte e da intervenção da Inspeção das Atividades em Saúde. Aliás, a intervenção em todo o processo de médicos, enfermeiros, juristas e especialistas em bioética que compõem a Comissão de Verificação é uma das garantias de que esta não será de todo uma decisão imponderada, condicionada ou motivada por qualquer outro fator que não seja a livre, firme e reiterada vontade do doente. Por outro lado, parece-me fundamental a garantia de que esta se trata de uma decisão tomada pelo próprio no exato e preciso momento em que as circunstâncias se verificam. Daí que só mereça o meu voto favorável a iniciativa legislativa que em caso de inconsciência garanta a interrupção do procedimento. Sobre a questão da sua compatibilização com o quadro constitucional vigente, como referiu o Professor Costa Andrade «a penalização e a despenalização de morte assistida são ambas constitucionais porque a  59 Constituição, após a previsão dos valores fundamentais ‘vida’ e ‘autonomia’, delega no legislador ordinário a facilidade de maximizar e compatibilizar estes dois valores fundamentais». Sobre o Direito Comparado e o afamado conceito da «rampa deslizante», depois de uma leitura atenta dos vários projetos de lei em discussão, a conclusão que se retira é que ficam de fora os exemplos que noutros países desvirtuaram por completo o conceito original. Em qualquer um dos projetos se garante que não será aplicada a eutanásia numa situação de uma qualquer doença, não será aplicada a eutanásia a crianças, nem será aplicada a eutanásia a uma qualquer pessoa que esteja momentaneamente numa depressão. Afastado que está o fantasma da rampa deslizante, voltemos então ao que está em causa. Está em causa a resposta que o ordenamento jurídico dará a qualquer uma das pessoas que, estando numa situação de sofrimento extremo, com lesão definitiva ou doença incurável e fatal, queira, no exercício da sua liberdade individual e indisponível, morrer. Nenhum de nós irá dispor da vida de ninguém. Trata-se, outrossim, de permitir que cada um de nós, no exercício pleno e integral da sua liberdade, o possa fazer, única e exclusivamente, relativamente a si próprio. A Deputada do PSD, Margarida Balseiro Lopes . — Acabámos de discutir, na generalidade, um conjunto de diplomas sobre matérias que, por interesse do debate, se encaixam numa só palavra — eutanásia. O Partido Socialista apresenta a sua iniciativa mas não limita a opção dos seus Deputados. Mesmo assim, porque o mundo mudou muito, o meu voto é o único autorizadamente diferente. Não será novidade. Em 2003 já havia acontecido, com a interrupção voluntária da gravidez, uma indagação dissonante na matéria de facto e na proposta de realização de um referendo. Não pondero, nunca ponderei, nas minhas leituras sobre os deveres constitucionais dos Deputados que neles caiba a autorização para transportarem para as consultas populares matérias desta natureza. A minha democracia é representativa, deve suster-se nos eleitos para a permissão das inovações legais. Estas posições ajudaram a consolidar uma ideia perante outros — a de que teria uma minha visão religiosa dos temas que referi. Nada de mais tonto e desconexo. Por essa razão arroguei a necessidade de aqui deixar as linhas que desagrego perante as grandes questões éticas que se colocam hoje às nossas sociedades, as ponderações que poderemos (ou deveremos) ter em tempos de ausência de paciência para a argumentação e de excesso de barulho e de arrogância perante a divergência. Divido as grandes questões de sociedade que hoje enfrentamos em dois grupos: o primeiro, o que nos leva ao objetivo da felicidade. Este grupo, pela sua natureza, esbate a tal leitura religiosa da vida. Assumo o princípio da felicidade na autorização do casamento entre pessoas do mesmo sexo. Trata-se de não projetar contra outrem uma obrigação pela ordem social durante séculos instituída, trata-se de desobrigar o ser humano, na sua diversidade, a encontrar o caminho sem preconceito de qualquer espécie. Assumo o princípio da felicidade na autorização, na militância, pela adoção de crianças por qualquer ser humano, reveja-se ele em qualquer das nossas realidades familiares, desde que livre e concedente de amor, desde que disponível para consagrar vida a uma outra vida. Assumo o princípio da felicidade na autorização do encontro de cada um consigo próprio. É esse o primórdio que está subjacente aos projetos que apoiei de determinação complectiva de género, em liberdade. Por esta lista de opções poderiam os mais desatentos encostar-me aos mais progressistas dos Deputados portugueses. Não é adjetivo que rejeite, porque assim me considero, porque assim milito em permanência. Aliás, é por esse lado se inicia também o primeiro dos grandes argumentos pela vida, na minha observação devida e felicidade como análogos societais. A minha opção positiva pelas técnicas inovadoras de criar vida, sejam elas quais forem, usem que métodos, sistemas ou orquestrações jurídicas usarem, recebem de mim a manifestação satisfatória da evolução que devemos trilhar. É exatamente por isso que lamento a posição do Tribunal Constitucional sobre a gestação de substituição, esquecendo a alegria de muitos casais que esperavam alcançar a sua plenitude. Vida, trata-se de defender a vida, de a promover, de fazer mundo, de encontrar na ciência o que a circunstância específica de duas pessoas não permitiu biologicamente.  A vida, essa coisa mágica, essa realidade filosófica que nunca terá uma resposta, razão, ou equação, é o ponto que me levou a não aprovar a atual lei da interrupção voluntária da gravidez. O meu limite sempre foi os três registos que a ética também nos impõe — violação, risco para a saúde da mãe, malformação do feto. Não importa regressar agora a este debate. Ele está hoje tão entranhado na nossa circunstância relativizada que já nem a mais conservadora Irlanda se mantém na sombra do olhar tutelar da Igreja. Entramos agora na questão da morte assistida, ou na eutanásia, por economia de conceitos. Já acima referi a minha discordância e a minha circunstância de Deputado socialista minoritário. Importa agora indicar as razões que já desenvolvi, em tempos e circunstâncias diversas, mas que estes dias obrigam a recolocar. Tenho para mim que é dever dos poderes públicos a preservaçãoda vida, não a conjugação das autorizações para a sua eliminação. A ciência, como atrás já referi, dá-nos, a cada dia, surpreendentes notícias, concede-nos um campo de novas oportunidades que deveremos assumir. Para mim, o Parlamento não pode conceder que esta seja uma matéria de reserva de cada um e o sinal de que se pode «matar» não é um avanço, é, sim, um recuo social. Tenho para mim que a dignidade não se ganha com a conceção de um poder desesperado perante o sofrimento, mas ganha-se olhando para esse sofrimento físico e psicológico e concedendo-lhe todos os meios para o eliminar. Tenho para mim que incumbe a todos nós um olhar sobre a responsabilidade para que a vida, toda a vida, seja digna. Ora, a reivindicação de uma morte digna é, exatamente, o contrário do que devemos assumir enquanto magma de valores, enquanto repositório de conquistas sobre o infortúnio. Tenho para mim que o Estado deve apostar na vidao mais longa possível, na sua qualidade e valia, na determinação de políticas onde cada um, seja qual for a sua juventude, assuma um papel, se consagre num tempo de equilíbrio entre gerações. A autorização da morte antecipada, por razões físicas, mas também por razões psicológicas, é o encurtar do nosso modelo de encontro da felicidade, é a resposta antecipada para um tempo de indivíduos afastados do gregário. Desistir da vida começa num dia, em determinadas circunstâncias, mas nunca mais para, alargando-se, em tempos posteriores, as razões para dela nos desprendermos. Tenho para mim que, enquanto comunidade, deveremos olhar as fraquezas do regime legal do testamento vital, a sua difusão e a promoção da adesão obrigatória, como também tenho o dever de exigir que se consagre, no SNS, a rede adequada de cuidados paliativos. Há, no meu partido, o Partido Socialista, a reivindicação permanente do humanismo, da sua relevância para o nosso ser coletivo. É nesse mesmo humanismo que eu penso militar. Não o proclamo mas vivo-o, não o dispenso só para ato distante dos amanhãs. É exatamente por isso que não posso estar lá, não posso concordar com o caminho que nos sugerem. Foi exatamente por isso que votei contra. O Deputado do PS, Ascenso Simões . — No passado dia 29 de maio, os projetos de lei n.os 418/XIII (2.ª) (PAN), 773/XIII (3.ª) (BE), 832/XIII (3.ª) (PS) e 838/XIII (3.ª) (Os Verdes) foram objeto de votação em reunião plenária. Votámos favoravelmente o projeto de lei do Partido Socialista e abstivemo-nos nos restantes por considerarmos que as iniciativas mereciam ponderações diferentes. A despenalização da eutanásia é provavelmente o tema mais complexo e difícil desta legislatura. Ninguém discute que viver é um direito e proteger a vida é um dever do Estado, e além disso todos concordamos na importância de reforçarmos os cuidados paliativos no nosso país. A nossa convicção cristã também nos impele para a defesa da vida e para o valor da vida, mas temos igualmente bem presente que cada indivíduo deve ser livre e responsável pelas suas escolhas. Hoje, a antecipação da morte de alguém que sofre de forma extrema é crime. Mas um doente com um sofrimento atroz, cruel, insuportável, permanente e em fase terminal de vida, deve ser obrigado a viver, contra a sua vontade? Teremos nós o direito de impedir que seja ajudado alguém que, perante um diagnóstico irreversível, com um sofrimento incomensurável, faça um pedido de forma livre, consciente, informada, esclarecida, reiterada e isenta de dúvidas para que lhe abreviem a morte? A despenalização consagrada na lei como um direito a que todos podem recorrer permitiria que cada pessoa  61 assumisse a opção que entendesse sobre os últimos momentos da sua vida. Por isso, votámos a favor a iniciativa do PS, dado que esta salvaguardava um conjunto de premissas fundamentais, a saber, a legalização da eutanásia seria possível apenas em circunstâncias excecionalíssimas, exclusivamente para um indivíduo com um diagnóstico irreversível, com um sofrimento incomensurável, que fizesse um pedido de forma livre, consciente e informada, esclarecida, reiterada e isenta de quaisquer dúvidas para que lhe abreviassem a morte. Os Deputados do PS, Lara Martinho — Joaquim Barreto . — Votei favoravelmente estes projetos de lei porque considero a primazia de um valor maior que é o da liberdade individual e entendo que a responsabilidade de um Deputado à Assembleia da República, enquanto legislador, é a de, no exercício das suas competências, agir e decidir de acordo com o que for melhor para o bem comum, para a defesa do interesse público e para a garantia das liberdades individuais, sendo que esta avaliação tem sempre de ser feita observando as circunstâncias e características da realidade portuguesa no determinado período temporal em que se legisla e se aplica a Lei. Ao votar favoravelmente os projetos de lei sobre a morte medicamente assistida, assim decidi enquanto Deputado legislador que deve em consciência legislar para a sociedade e para a realidade do seu tempo, colocando neste caso a abertura da possibilidade do exercício pleno da liberdade individual de cada pessoa poder decidir se quer ou não, nos termos legais, recorrer à morte medicamente assistida. Depois de uma profunda reflexão e ponderação, estou convicto de que o melhor neste caso é respeitar a liberdade individual e não restringir as opções de cada um. Votei favoravelmente porque assim interpreto a exigência e posicionamento que cabe aos Deputados e que se pode resumir no seguinte: o Deputado legisla para o bem da sociedade e das pessoas e não apenas para si ou para as suas opções, convicções e simpatias individuais. Do ponto de vista pessoal, tenho grandes dúvidas sobre a decisão de querer a morte medicamente assistida. Sou da religião católica, nunca experienciei as dramáticas e dolorosas situações em que a morte medicamente assistida pode ser praticada e esta é uma matéria extremamente difícil de encarar e pensar com certezas absolutas. Precisamente por isto, é mais sensato, adequado e justo abrir a possibilidade legal do exercício da liberdade individual. Não aceito os argumentos de que o que seria necessário era porventura votar contra com uma aposta na melhoria e reforço dos cuidados de saúde ou votar contra porque estes projetos de lei podem permitir situações de homicídio ou falta de prestação de cuidados de saúde. Tal não é verdade, porquanto a melhoria dos cuidados de saúde não responde nem a todos os casos, nem no tempo que é justo e, por outro lado, os projetos de lei são equilibrados com particular rigor na definição das condições em que a decisão da morte medicamente assistida é tomada com a previsão de um procedimento garantístico a todo o momento. Não se pode pedir a um Deputado, nem o Deputado pode assumir o papel de um ativista religioso, moral ou filosófico. Eu votei favoravelmente porque, independentemente das minhas opções e crenças pessoais, a legalização da morte medicamente assistida, para a sociedade e para o indivíduo do nosso tempo, é a decisão mais correta, adequada e justa em democracia. O Deputado do PS, Nuno Sá . — Os projetos de lei n.os 418/XIII (2.ª) (PAN), 773/XIII (3.ª) (BE), 832/XIII (3.ª) (PS) e 838/XIII (3.ª) (Os Verdes) visavam, em termos muito ponderados e circunscritos, assegurar a despenalização da eutanásia e do suicídio medicamente assistido em circunstâncias muito excecionais, específicas e delimitadas por vontade do doente. Os projetos apresentavam um conteúdo muito similar e sem grandes diferenças de fundo entre si, o que facilitaria a sua conjugação e consolidação em sede de discussão na especialidade. Todos os projetos faziam assentar o pedido de eutanásia ou de suicídio medicamente assistido em dois pilares essenciais.  Por um lado, encontrávamos o pilar da situação clínica excecional, que em todos os projetos se apresentava como condição sine qua non para que o pedido pudesse ser realizado pelo doente e que, ainda que em termos terminológicos distintos (em questões de pormenor), apontavam apenas para casos de doenças incuráveis e fatais particularmente graves e penosas para o doente. Por outro lado, encontrávamos o pilar da vontade do doente, que se apresentava como claro em todos os projetos e que apontava para uma ideia geral de que a decisão de fazer o pedido competiria unicamente ao doente, baseando-se numa vontade livre, voluntária e esclarecida, havendo posteriormente uma série de momentos no procedimento subsequente a esse pedido em que o doente tinha a hipótese de confirmar ou reiterar o seu pedido por um grande número de vezes — quatro vezes no projeto de lei do PAN e até cinco vezes nos demais —, o que assegurava uma autenticidade e certeza dessa vontade, sendo possível, a todo o tempo, revogar o pedido, tendencialmente sem necessidade de qualquer fundamentação ou formalidade especifica, o que traz o fim imediato do processo em curso sem possibilidade de reabertura, ainda que com possibilidade de novo pedido no futuro. Esta importância crucial atribuída à vontade do doente surge também na situação prevista, expressamente nos projetos de lei do PAN, do BE e do PS e implicitamente no projeto de lei de Os Verdes, de perda de consciência do doente, que traz a interrupção do procedimento até eventual posterior recuperação da consciência pelo doente, sendo que só o BE permite que o procedimento prossiga se tal estiver consagrado na Declaração Antecipada de Vontade constante do respetivo testamento vital. De resto, diga-se que ainda que os projetos atribuíssem uma importância crucial a esta vontade do doente, faziam-no de modo a não absolutizar essa vontade ou valorizá-la sem quaisquer limites, colocando para o efeito dois limites que visavam assegurar precisamente a perfeição dessa vontade e a sua expressão em termos efetivamente livres, conscientes, aceitáveis e equilibrados. O primeiro desses limites surgia-nos pelo primeiro pilar, por mim já referido, que exige que haja uma situação clínica muito específica e bem delimitada que faz com que o doente não possa requerer a eutanásia ou suicídio medicamente assistido em qualquer situação que lhe aprouver. O segundo desses limites surge-nos pela garantia de uma intervenção médica especializada: do médico a quem o pedido foi dirigido, de um médico psiquiatra — sendo que só nos projetos de lei do PAN e de Os Verdes esta intervenção é obrigatória, sendo facultativa nos demais — e de um médico especialista ou de uma comissão especializada, em várias fases do procedimento. Isto visava assegurar o completo cumprimento da lei e a integridade do pedido e da vontade do doente, sendo que o objetivo desta intervenção especializada era deixar claro ao doente as implicações subjacentes ao seu pedido, verificar se as exigências legais e formais do pedido eram cumpridas e se o doente gozava da idoneidade/capacidade psíquica exigível para formular o pedido, impedindo-se, em caso negativo, o prosseguimento do procedimento, sendo que nuns projetos admitia-se recurso ou reavaliação e noutros não. Note-se que o direito de objeção de consciência destes médicos estava assegurado em todos os projetos de lei e que, uma vez concluído todo este complexo procedimento, a eutanásia ou o suicídio medicamente assistido poderiam ocorrer em local indicado pelo doente (algo só admitido pelos projetos de lei do BE e do PS), ou estabelecimentos de saúde públicos (só nestes segundo o projeto de lei de Os Verdes) ou privados (algo admitido pelos demais projetos) e para o concretizar a disponibilização ou administração do fármaco letal seria feita exclusivamente por médicos, segundo Os Verdes, por médicos com eventual auxílio de enfermeiros, segundo o PAN, ou por médicos ou enfermeiros com supervisão médica, de acordo com o BE e o PS, conforme os projetos de lei. Assim, feito este breve enquadramento geral e comparativo dos quatro projetos que estiveram em discussão, importa olhar para algumas das críticas apresentadas contra eles quer por indivíduos e organizações da sociedade civil, nas semanas que antecederam o debate, quer pelos diversos Deputados em sede de discussão em Plenário. A primeira das críticas que surgiu, demonstrando uma clara desinformação e pouca seriedade intelectual, foi a de comparar despenalização da eutanásia e do suicídio medicamente assistido (proposta pelo PAN, BE, PS e Os Verdes) a uma eutanásia eugénica ou uma eutanásia social ou económica, dizendo-se que a aprovação desta despenalização traria uma «licença para matar». Ora, face a esta crítica não posso contrapor senão a minha indignação porque elas são críticas que desviam a discussão do essencial (o conteúdo dos quatro  63 projetos) procurando uma intimidação «com um exercício de especulação alarmista»1, pelo que importa, desde já e nesta sede, desmitificá-la. Diga-se, por um lado, que, como ficou claro da análise geral dos projetos apresentados, o que estava em causa era a possibilidade de proporcionar a quem assim o deseje (através da expressão de uma vontade livre, voluntária, esclarecida e reiterada) uma morte suave a quem se encontre numa fase terminal da sua vida afetado por uma doença incurável e especialmente penosa, o que nunca se pode confundir nem com as situações (com um lastro histórico negro) em que há eutanásia, independentemente da vontade do doente, para garantir a supressão de vidas humanas consideradas indignas de serem vividas em nome da pureza da raça (eutanásia eugénica), nem com as situações em que há eutanásia, independentemente da vontade do doente, com base numa visão utilitarista do homem que visa a eliminação daqueles que representem um encargo sem qualquer contrapartida para a sociedade. Os projetos de lei apresentados, como demonstrei anteriormente, visavam precisamente evitar estas situações, sacralizando a vontade do doente só limitada por válvulas de segurança que visavam assegurar a perfeição dessa vontade e a sua expressão em termos efetivamente livres, conscientes, aceitáveis e equilibrados, e faziam-no de modo cauteloso que evitava a introdução de uma lógica de «indústria da morte»2 ou de comercialização da morte no nosso País, já que, conforme se sublinhou, a eutanásia involuntária era totalmente excluída, exigindo-se um conjunto de condições bem delimitadas e rigorosas para que o pedido pudesse ser feito e concretizado e que o doente tivesse nacionalidade portuguesa ou residência legal em território português e impedindo-se (nos projetos de lei do PS e do BE) a possibilidade de intervenção na concretização dos profissionais que possam retirar benefício direto ou indireto da morte do doente. Assim, através da despenalização da eutanásia ou do suicídio medicamente assistido não se pretendia incentivar ou recomendar estas práticas. De resto, nenhum clínico deve recomendar o que quer que seja a um doente, devendo antes, sim, informá-lo sobre as várias possibilidades, os riscos associados a cada uma delas, para que ele, sozinho, ou acompanhado pela família e amigos, tome a decisão que achar mais válida. Por outro lado, diga-se que é absolutamente errado considerar que estes projetos pretendiam tornar lícitos a eutanásia ou o suicídio medicamente assistido ou incentivá-los sem limites, tratava-se, sim, de despenalizar estas práticas quando praticadas em certas circunstâncias muito específicas e bem delimitadas e reguladas por lei, sendo que mesmo nessas situações bem delimitadas não deixaria de haver um ilícito e um crime, o que sucedia era que esta não seria uma prática punível — sendo que nas demais situações em que se extravasassem os termos bem delimitados e rígidos em que esta prática não seria punível o regime atualmente em vigor ficaria intocado, já que nenhum dos partidos propunha a alteração os artigos 134.º, n.os 1 e 2, e 135.º, n.º 1 e 2 do Código Penal). A segunda das críticas surge da contraposição da prestação dos cuidados paliativos à eutanásia/suicídio medicamente assistido, considerando-se que estamos perante duas realidades inconciliáveis — só se podendo ser a favor de uma dessas realidades — e da afirmação de que, havendo cuidados paliativos e havendo testamento vital, já não seria necessário consagrar a possibilidade legal da eutanásia e do suicídio assistido. Esta crítica não se me apresenta como razoável porque não cabe ao legislador nem ao médico obrigar a que os únicos caminhos possíveis sejam, alternativamente, o dos cuidados paliativos ou o do testamento vital, cabe, antes, ao doente, saber os caminhos que tem no final da sua vida e poder escolher o mais válido, ainda que consciente e informado pelo médico sobre as várias possibilidades e os riscos associados a cada uma. Estamos no plano do respeito escrupuloso da vontade do doente. Há quem argumente que o Estado no SNS deveria investir mais em cuidados paliativos. Há, de facto, carências neste domínio, que são supridas no sector privado para quem tem rendimentos para a ele aceder. Porém, o argumento da necessidade de melhor resposta pública no âmbito dos cuidados paliativos em nada tem a ver com o debate sobre a eutanásia. A terceira das críticas apresentadas prende-se com a ideia de que a eutanásia, embora sendo ilegal, já seria atualmente praticada pelo que não seria necessário consagrar por via legal uma despenalização desta prática. Há aqui um paralelismo com a interrupção voluntária da gravidez (IVG). As mulheres de classes médias e altos                                                           1 Pedro Galvão, «Ética com Razões», Fundação Francisco Manuel dos Santos, 2015, página 56. 2 A expressão em José de Oliveira Ascensão, «A Terminalidade da Vida» in «Estudos de Direito da Bioética», volume IV, Almedina, 2012, página 156 (ainda que não inserida na discussão destas iniciativas).   rendimentos faziam-no em segurança fora do país; as mais pobres faziam-no em condições inacreditáveis, em «vãos de escada» e por vezes morriam. A primeira semelhança é que existe uma componente redistributiva como consequência da atual criminalização. São os doentes de mais recursos que têm acesso a clínicas em países europeus para o suicídio assistido e a eutanásia, ou que têm acesso a bons cuidados paliativos em hospitais privados portugueses. Os de menos recursos têm acesso às condições que o SNS consegue dar e que não são, por razões compreensíveis de limitações de recursos públicos, as melhores. A segunda é que, não sendo legal, não é regulada, não havendo a distinção entre aquela que deve ser permitida e a que não deve ser. Concordo com aqueles que afirmam que o que não deve acontecer é a sedação paliativa degenerar em eutanásia clandestina. Pois suspeito que tal já acontece e a forma de não acontecer é aprovar e regulamentar uma lei sobre a eutanásia e não criminalizá-la sem limites. A quarta das críticas prende-se com a falta de legitimidade democrática da Assembleia da República para discutir o tema, uma vez que, segundo estes críticos, nenhum dos partidos políticos que agora apresentam projetos de lei teria colocado a questão no seu programa eleitoral ou levado a debate esta questão no quadro da campanha eleitoral de 2015, pelo que a opinião soberana dos eleitores não teria sido auscultada. Temos de rebater esta crítica em três pontos essenciais. Em primeiro lugar, importa sublinhar que o programa eleitoral do PAN, apresentado no âmbito da campanha eleitoral para as eleições legislativas de 2015, propunha trazer a eutanásia «à discussão, de modo a que se venha a definir se um/a cidadão/ã lúcido/a deve ou não, por razões se saúde, poder decidir terminar a sua vida», prometendo fazê-lo por via da criação de fóruns de discussão e pela abertura ao debate sobre a legalização da eutanásia em Portugal. Sobre o sentido das palavras inseridas no programa eleitoral só o próprio PAN se pode pronunciar, mas parece-me que, ao prometer a abertura da discussão sobre a eutanásia em Portugal por via da abertura do debate, tal só pode ser entendido, tendo em conta que estamos perante um programa eleitoral e não um mero manifesto ou programa político de um partido, no quadro da discussão institucional na Assembleia da República, como órgão com competência exclusiva na matéria. No quadro institucional, a única forma que um partido tem para lançar um debate consequente sobre este tema é precisamente o projeto de lei, tendo sido isso que o PAN fez, sendo que as boas práticas parlamentares apontam para que, uma vez que uma iniciativa legislativa relevante seja lançada por um partido, os restantes partidos políticos apresentem projetos alternativos que consagrem a sua visão sobre o tema, conste ela ou não do respetivo programa eleitoral. Em segundo lugar, importa referir que, não obstante o facto de o PAN ter colocado a questão no programa eleitoral — assegurando, assim, de forma clara a legitimidade democrática que tanto preocupa os críticos da eutanásia —, durante a atual legislatura, em 2016, o Movimento Cívico «Direito a Morrer com Dignidade» entregou a petição n.º 103/XIII (1.ª) (subscrita por 8427 cidadãos, de entre os quais alguns Deputados do PS, do BE e do PSD e até pelo atual líder do PSD) que exortava os Deputados e grupos parlamentares «a discutir e promover as iniciativas legislativas necessárias à despenalização da morte assistida». Naturalmente, em conformidade com o procedimento legalmente previsto, a petição mereceu uma profunda e transparente discussão no quadro da Assembleia da República, com várias audições, culminando com a aprovação de um relatório sobre a questão e com a discussão da petição em Plenário. Note-se, de resto, que à luz do artigo 19.º, n.º 1, alínea c), da Lei do Exercício do Direito de Petição (Lei n.º 43/90, de 10 de agosto) um dos muitos efeitos que este tipo de mecanismos pode desencadear, seguindo a interpretação de Jorge Miranda e Pedro Machete3, é precisamente a possibilidade de, na sequência de todo este processo de discussão, haver a elaboração por qualquer Deputado ou por qualquer grupo parlamentar de um projeto lei que se mostre justificado a dar resposta à questão colocada pela sociedade civil por via de petição. Assim, se legitimidade não houvesse pela ausência de referência ao tema nos programas eleitorais do PS, do BE e do PEV ela foi garantida por esta importante petição e por todo o processo que lhe sucedeu, que asseguraram um importante debate do tema na Assembleia da República (conforme, de resto, referem os preâmbulos dos projetos de lei do PAN e do PAN). Em terceiro lugar, é importante notar que o tema da despenalização da eutanásia mereceu um profundo debate no plano interno do PS e do BE. Por um lado, no PS, em 2017, por proposta de Isabel Moreira e Maria Antónia Almeida Santos, a Comissão Nacional (órgão máximo entre congressos) debateu e aprovou uma moção                                                           3 Jorge Miranda e Pedro Machete, anotação ao artigo 52.º in Jorge Miranda e Rui Medeiros, «Constituição Portuguesa Anotada», tomo I, 2.ª edição, Coimbra Editora, 2010, páginas 1026 e 1027.   65 que defendia a despenalização da eutanásia em situações especiais. Por seu turno, o BE, para além de ter incluído a questão no seu programa eleitoral para as eleições legislativas de 2009, apresentou, em 2017, um anteprojeto de lei de despenalização da morte assistida que foi discutido em colóquios e debates por todo o País, dando origem no final desse processo de discussão à apresentação do projeto de lei que agora se discutiu juntamente com os demais. Deste modo, a apresentação dos projetos de lei pelo PS e pelo BE é o resultado natural do processo de discussão interna levada a cabo no plano da vida e funcionamento destes dois partidos. Mesmo que assim não fosse e que as outras duas razões apresentadas anteriormente não existissem para reforçar a legitimidade na apresentação destas iniciativas, a própria natureza do mandato dos Deputados assegurá-la-ia, já que o mandato dos Deputados é livre, não sendo os eleitores os mandantes dos votos dos Deputados. Por fim, uma das críticas apresentadas por um conjunto de críticos, do qual se destaca Jorge Miranda4, iminente constitucionalista e professor universitário, que apontam para a inconstitucionalidade da despenalização da eutanásia e do suicídio medicamente assistido por via da violação frontal do artigo 24.º, n.º 1, da Constituição da República Portuguesa (direito à vida) que dispõe que «a vida humana é inviolável», o que, segundo estes autores, significa que, independentemente das circunstâncias e das intenções subjacentes, ninguém pode dispor da sua vida, como ninguém pode alienar a sua liberdade ou o respeito por si mesmo, não se podendo conceber a autonomia e liberdade sem responsabilidade e a dignidade da pessoa humana sem o respeito pela dignidade da vida. Ainda que não seja jurista, parece-me que a resposta a esta última importante crítica deve passar por três argumentos essenciais. Por um lado, deve notar-se, conforme sublinham Rui Medeiros e Jorge Pereira da Silva5, que o facto de o direito à vida ser o primeiro dos direitos (condição sine qua non dos demais direitos) não significa que haja uma permanente superioridade axiológica sobre os restantes direitos, pelo que este direito à vida exige, também, um respeito pela autonomia e liberdade próprias do individuo em todas as dimensões e em termos que lhe permitam dispor livremente da própria vida podendo, se for caso disso, escolher a própria morte6. De resto, como questiona acertadamente Fernando Araújo7, como pode considerar-se que se respeita a vida se não se respeita a vontade autónoma do indivíduo? Estamos no campo dos direitos humanos e aqui a opção é relativamente clara entre o que deve caber ao indivíduo e o que deve caber ao Estado: nem o Estado nem ninguém, para além do próprio indivíduo, deve decidir sobre o limite da dor e do sofrimento de uma pessoa na presença de uma doença incurável e fatal ou sobre o que é o bem-estar individual de cada pessoa. Não se comparam (nem podem comparar) vidas, níveis de sofrimento ou de felicidade. Note-se, também, que o ordenamento jurídico português tem dado passos que, fazendo eco das mudanças sociais profundas que ocorreram no nosso país desde a aprovação da Constituição da República Portuguesa, confirmam e reforçam este entendimento do direito à vida numa lógica moderna e dessacralizada, assente na autonomia e liberdade do indivíduo. Assim sucedeu, por exemplo, com a introdução do direito ao livre desenvolvimento da personalidade na CRP (Revisão Constitucional de 1998), a despenalização da IVG ou o chamado testamento vital, cuja constitucionalidade nunca foi posta em causa pelo Tribunal Constitucional. A aprovação da despenalização da eutanásia e do suicídio medicamente assistido representaria — e, estou certo, representará no futuro — mais um passo importante neste processo de valorização da autonomia e liberdade do individuo. Por outro lado, a eutanásia e o suicídio medicamente assistido não devem ser justificados com base no princípio da dignidade humana, uma vez que, conforme nota alguma doutrina8, este é um princípio que nesta discussão assume uma dupla dimensão, que lhe permite servir de argumento para ambos os lados do debate, já que se é verdade que pode ser invocado para a defesa da eutanásia por esta permitir uma morte digna, também é verdade que pode ser usado contra a eutanásia não só porque se pode dizer que a solicitação da                                                           4 Jorge Miranda, «Sobre a eutanásia» in Público, 30 de Maio de 2018, disponível em: 5 Rui Medeiros e Jorge Pereira da Silva, anotação ao artigo 24.º in Jorge Miranda e Rui Medeiros, «Constituição Portuguesa Anotada», tomo I, 2ª edição, Coimbra Editora, 2010, página 538. 6 Algo que resulta de um princípio de autonomia que decorre essencialmente do direito ao livre desenvolvimento da personalidade (26.º/1 CRP). 7 Fernando Araújo, «A procriação assistida e o problema da santidade da vida», Almedina, 1999, página 116. 8 Inês Fernandes Godinho, «Autodeterminação e morte assistida na relação médico-paciente» in «O Sentido e o Conteúdo do Bem Jurídico Vida Humana», Coimbra Editora, 2014, página 118 e seguintes e Júlia Maria Vieira Gonçalves, «Eutanásia, um problema de consciência» in RJLB, Ano 2 (2016), n.º 6, página 797.   morte é contrária a essa dignidade humana, mas também porque a resistência ao sofrimento e o entendimento de dignidade são muito variáveis de pessoa para pessoa (uma pessoa sujeita a elevado grau de sofrimento pode manter a dignidade enquanto outra com um menor grau de sofrimento pode não o conseguir fazer). Resta-me, por fim, reafirmar que entendo que cada uma e cada um deve ter o direito de viver a sua vida com liberdade, com dignidade e com autonomia e agir de acordo com a sua vontade, desde que isso não interfira na liberdade dos outros. Por esse motivo e por os demais motivos que apresentei anteriormente, votei a favor dos quatro projetos de lei, apresentados, respetivamente, pelo PAN, pelo BE, pelo PS e por Os Verdes. O Deputado do Grupo Parlamentar do Partido Socialista, Paulo Trigo Pereira . —— A natureza do mandato dos Deputados é uma questão resolvida; o seu exercício é livre e representam todo o País. Apesar disto, não devemos ignorar que os Deputados são eleitos por círculos eleitorais e que se estabelece uma ligação de proximidade entre eleitores e eleito salutar à nossa vida democrática. Eu, que fui eleito pela Guarda, tento sempre defender o melhor que posso e sei os interesses legítimos, os valores mais profundos, da população do meu distrito natal. Interroguei-me: o que pensariam os cidadãos da Guarda acerca desta temática, sobre liberdade e autonomia, sobre a dignidade da pessoa humana, sobre a eutanásia? É uma resposta impossível, mas certamente estarão divididos como em todo o País. O que estava em causa com este pacote legislativo era a possibilidade de alguém, lúcido, com doença terminal e em sofrimento atroz, ter a liberdade de solicitar, conscientemente, o final da sua vida, encurtando-a, com o apoio de médicos e que estes profissionais clínicos não fossem criminalizados por isso. O nosso povo, na sua infinita sabedoria, costuma usar a expressão «isto já não era viver», quando conforta algum familiar ou comenta a morte de alguém em sofrimento. A minha irmã, referindo-se à nossa experiência com a doença do nosso pai, confessou-me que todos os dias «pedia a Deus que o levasse», impotente perante a dor e a impossibilidade de cura. Descriminalizar a eutanásia não significa recomendá-la. Com o voto a favor, ninguém ficava obrigado a escolher esse novo caminho que tem no final da sua vida. Mas com o voto contra estaria a impedir que outros fizessem essa escolha livre e consciente. Não me sai da cabeça o último olhar que guardo de meu pai na véspera da sua morte. Esta declaração de voto é também um testemunho pessoal. Quis, no momento de votar, proclamar bem alto «em memória de meu pai, A FAVOR». Não o fiz; faço-o agora solenemente. Que me desculpem os eleitores do distrito da Guarda que pensam diferente. É este o encanto maior da democracia. O Deputado do PS, Santinho Pacheco . —— Nota: As declarações de voto anunciadas pelo Deputado do PSD Carlos Abreu Amorim e pelo Deputado do PS Miguel Coelho não foram entregues no prazo previsto no n.º 3 do artigo 87.º do Regimento da Assembleia da República.——— Presenças e faltas dos Deputados à reunião plenária. A DIVISÃO DE REDAÇÃO."
         }
     }
 }
