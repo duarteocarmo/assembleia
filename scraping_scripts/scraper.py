@@ -39,7 +39,6 @@ def scrape_intervenções_url(url):
     cleantext = re.sub("Sr. ª", "Sr.ª", cleantext)
     cleantext = re.sub(r"Sr\.ª([A-Z])", "Sr.ª \\1", cleantext)
     cleantext = re.sub(r"A Sr\.[^ª]", "A Sr.ª ", cleantext)
-    # cleantext = re.sub(" +", " ", cleantext)
 
     cleantext = re.sub(
         r"((O Sr\.|A Sr\.ª|Vozes do) [^:.]*(:|\.) —)", "BREAKHERE!!!\\1", cleantext
@@ -74,7 +73,7 @@ def scrape_intervenções_url(url):
         # get the speech
         discurso = " ".join(splitintervention[2:])
         discurso = discurso.replace("\n", "").strip()
-        # discurso = re.sub(" +", " ", discurso)
+        discurso = re.sub(" +", " ", discurso)
 
         # put everything together
         sessiondict["intervenções"][id] = dict()
@@ -132,7 +131,7 @@ def get_links_legislative_session(url):
 # loop through all in a legislative session
 série = 1
 legislatura = 13
-sessão = 1
+sessão = 3
 
 url_sessão = (
     "http://debates.parlamento.pt/catalogo/r3/dar"
